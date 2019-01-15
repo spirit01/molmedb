@@ -6,6 +6,10 @@ import threading
 from pubchempy import *
 
 
+# TODO udelat obecne porovnani, ne jenom s Juraskovou.
+# TODO# Obecne porovnani libovolneho csv souboru v pozadovanem formatu s databazi
+
+
 class LogPipe(threading.Thread):
 
     def __init__(self, level):
@@ -63,21 +67,19 @@ def load_document_juraskova():
 
     return set(sorted(name_smile_juraskova))
 
-
+#unify name and smile with PubChem, can be identified by prefixes ERROR
 def unify_structures_juraskova(unselected_structure):
     for name, smile in sorted(unselected_structure):
         for compound in get_compounds(name, 'name'):
             # print(f'{name} and {compound.cid}')
             for structure in get_compounds(compound.cid, 'cid'):
-                #make file with similar and different items
-                if name != None:
-                    print(name.strip())
-                    logging.info(f'ERROR: {name.strip()} ; {structure.iupac_name.strip()}; {structure.canonical_smiles.strip()} \n')
+                # make file with similar and different items
+                if name != None or structure.iupac_name != None:
+                    logging.info(
+                        f'ERROR: {name.strip()} ; {structure.iupac_name}; {structure.canonical_smiles.strip()} \n')
                 else:
-                    print(name)
-                    logging.info(f'ERROR: {name} ; {structure.iupac_name.strip()}; {structure.canonical_smiles.strip()} \n')
-                # print(structure.iupac_name)
-                # print(structure.canonical_smiles)
+                    logging.info(f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles.strip()} \n')
+             
 
 
 # TODO nezarazene struktury prohnat pres pubchem a znovu porovnat s databzi, az potom posilat na vypocet.
@@ -95,14 +97,14 @@ def load_database():
     return set(sorted(name_smile_database))
 
 
-# compaare to name AND smiles, both must by the same
+# compare to name AND smiles, both must by the same. Result writes to results.log to the first part.
 def compare_juraskova_and_database_both(name_smile_databse, name_smile_juraskova):
     final_smile_name = []
     for (name_j, smile_j) in name_smile_juraskova:
         for (name_d, smile_d) in name_smile_databse:
             if name_j == name_d and smile_j == smile_d:
                 final_smile_name.append((name_d, smile_d))
-                logging.info(f'{name_d}| {smile_d}')
+                logging.info(f'{name_d}; {smile_d}')
             else:
                 pass
                 # unify_structures_juraskova(set((name_j, smile_j)))
@@ -112,6 +114,7 @@ def compare_juraskova_and_database_both(name_smile_databse, name_smile_juraskova
 
 def main():
     # remove logging file if it's already exist
+    #results.log contains solved structures and unsolved structures are send to PubChem
     hdlr = logging.FileHandler(
         f'results.log')
     hdlr.setFormatter(SpecialFormatter())
@@ -132,4 +135,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
