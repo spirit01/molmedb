@@ -3,7 +3,14 @@ import csv
 import tempfile
 import threading
 
+# import mysql.connector
+import MySQLdb
 from pubchempy import *
+
+
+# import PyMySQL
+
+# from mysql.mysqlclient import errorcode
 
 
 # TODO udelat obecne porovnani, ne jenom s Juraskovou.
@@ -67,19 +74,26 @@ def load_document_juraskova():
 
     return set(sorted(name_smile_juraskova))
 
-#unify name and smile with PubChem, can be identified by prefixes ERROR
+
+# unify name and smile with PubChem, can be identified by prefixes ERROR
 def unify_structures_juraskova(unselected_structure):
     for name, smile in sorted(unselected_structure):
+        if name == '':
+            print('kkk', name)
+
+
+"""
         for compound in get_compounds(name, 'name'):
-            # print(f'{name} and {compound.cid}')
+            print(f'{name} and {compound.cid}')
             for structure in get_compounds(compound.cid, 'cid'):
                 # make file with similar and different items
                 if name != None or structure.iupac_name != None:
                     logging.info(
-                        f'ERROR: {name.strip()} ; {structure.iupac_name}; {structure.canonical_smiles.strip()} \n')
+                        f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles} \n')
                 else:
-                    logging.info(f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles.strip()} \n')
-             
+                    logging.info(f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles} \n')
+
+"""
 
 
 # TODO nezarazene struktury prohnat pres pubchem a znovu porovnat s databzi, az potom posilat na vypocet.
@@ -87,34 +101,50 @@ def unify_structures_juraskova(unselected_structure):
 
 
 # load database from Jurecek and return sets of tuples(name, smile)
-def load_database():
-    name_smile_database = []
-    with open('smiles_upravene_bez_chyby.csv') as smiles_database:
-        smiles_database = csv.reader(smiles_database, delimiter=";")
+def load_database(db):
+    mycursor = db.cursor()
+    mycursor.execute("select name,SMILES from substances order by name")
+    result = mycursor.fetchall()
 
-        for line in smiles_database:
-            name_smile_database.append((line[1], line[2]))
-    return set(sorted(name_smile_database))
+    return result
 
 
 # compare to name AND smiles, both must by the same. Result writes to results.log to the first part.
-def compare_juraskova_and_database_both(name_smile_databse, name_smile_juraskova):
-    final_smile_name = []
-    for (name_j, smile_j) in name_smile_juraskova:
-        for (name_d, smile_d) in name_smile_databse:
-            if name_j == name_d and smile_j == smile_d:
-                final_smile_name.append((name_d, smile_d))
-                logging.info(f'{name_d}; {smile_d}')
-            else:
-                pass
-                # unify_structures_juraskova(set((name_j, smile_j)))
-    # Structures which DON'T have a form in databases are unified with PubChem.ncbi.nlm.nih.gov
-    unify_structures_juraskova(name_smile_juraskova.difference(name_smile_databse))
+def compare_juraskova_and_database_both(name_smile_juraskova, db):
+    mycursor = db.cursor()
+    result_set = []
+    structure_to_unify = []
+    for name1, smile in sorted(name_smile_juraskova):
+        sql = 'select name,smiles from substances where name=%s and smiles=%s'
+        if mycursor.execute(sql, [name1, smile]) == 1:
+            result_set.append(mycursor.fetchall())
+        else:
+            structure_to_unify.append((name1, smile))
+    return (structure_to_unify)
+
+
+"""
+   final_smile_name = []
+   for (name_j, smile_j) in name_smile_juraskova:
+       for (name_d, smile_d) in name_smile_databse:
+           if name_j == name_d and smile_j == smile_d:
+               final_smile_name.append((name_d, smile_d))
+               logging.info(f'{name_d}; {smile_d}')
+           else:
+               pass
+               # unify_structures_juraskova(set((name_j, smile_j)))
+   # Structures which DON'T have a form in databases are unified with PubChem.ncbi.nlm.nih.gov
+   unify_structures_juraskova(name_smile_juraskova.difference(name_smile_databse))
+"""
 
 
 def main():
     # remove logging file if it's already exist
-    #results.log contains solved structures and unsolved structures are send to PubChem
+    # results.log contains solved structures and unsolved structures are send to PubChem
+    db = MySQLdb.connect(user='petra', password='petra',
+                         host='localhost',
+                         database='molmedb')
+
     hdlr = logging.FileHandler(
         f'results.log')
     hdlr.setFormatter(SpecialFormatter())
@@ -126,11 +156,11 @@ def main():
     logpipe_err = LogPipe(logging.DEBUG)
 
     name_smile_juraskova = load_document_juraskova()
-    name_smile_database = load_database()
-    compare_juraskova_and_database_both(name_smile_juraskova, name_smile_database)
+    structure_to_unify = compare_juraskova_and_database_both(name_smile_juraskova, db)
 
     logpipe.close()
     logpipe_err.close()
+    db.close()
 
 
 if __name__ == '__main__':

@@ -3,9 +3,9 @@ DrugBank|Vitamin A|C\C(=C/CO)\C=C\C=C(/C)\C=C\C1=C(C)CCCC1(C)C|All-trans-retinal
 DrugBank|Amphetamine|CC(N)CC1=CC=CC=C1|4-hydroxyamphetamine|CC(N)CC1=CC=C(O)C=C1|CYP2D6|||||||||||||||||||||||||
 DrugBank|Nicotine|CN1CCC[C@H]1C1=CN=CC=C1|Nicotine imine|CN1CCCC1C1=CC=C[N+]([O-])=C1|CYP2A6|CYP2B6||||||||||||||||||||||||
 DrugBank|Nicotine|CN1CCC[C@H]1C1=CN=CC=C1|Nicotine glucuronide|CN1CCC[C@H]1C1=CC=C[N+](=C1)[C@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)C([O-])=O|UGT1-4|UGT1-9||||||||||||||||||||||||
-DrugBank|Nicotine|CN1CCC[C@H]1C1=CN=CC=C1|Nicotine-1'-N-oxide|C[N+]1([O-])CCCC1C1=CC=CN=C1|Dimethylaniline monooxygenase [N-oxide-forming] 3|||||||||||||||||||||||||
+DrugBank|Nicotine|CN1CCC[C@H]1C1=CN=CC=C1|Nicotine-1-N-oxide|C[N+]1([O-])CCCC1C1=CC=CN=C1|Dimethylaniline monooxygenase [N-oxide-forming] 3|||||||||||||||||||||||||
 DrugBank|Nicotine imine|CN1CCCC1C1=CC=C[N+]([O-])=C1|Cotinine|CN1[C@@H](CCC1=O)C1=CC=CN=C1|Aldehyde oxidase|||||||||||||||||||||||||
-DrugBank|Cotinine|CN1[C@@H](CCC1=O)C1=CC=CN=C1|Nicotine-1'-N-oxide|C[N+]1([O-])CCCC1C1=CC=CN=C1|Dimethylaniline monooxygenase [N-oxide-forming] 3|||||||||||||||||||||||||
+DrugBank|Cotinine|CN1[C@@H](CCC1=O)C1=CC=CN=C1|Nicotine-1-N-oxide|C[N+]1([O-])CCCC1C1=CC=CN=C1|Dimethylaniline monooxygenase [N-oxide-forming] 3|||||||||||||||||||||||||
 DrugBank|Nicotine|CN1CCC[C@H]1C1=CN=CC=C1|2'-Hydroxynicotine|CN1CCCC1(O)C1=CC=CN=C1|CYP2A6|||||||||||||||||||||||||
 DrugBank|Tramadol|COC1=CC=CC(=C1)[C@@]1(O)CCCC[C@@H]1CN(C)C|O-Desmethyltramadol|CN(C)CC1CCCCC1(O)C1=CC=CC(O)=C1|CYP2D6|||||||||||||||||||||||||
 DrugBank|Caffeine|CN1C=NC2=C1C(=O)N(C)C(=O)N2C|Theobromine|CN1C=NC2=C1C(=O)NC(=O)N2C|CYP1A2|CYP2E1||||||||||||||||||||||||
@@ -86,7 +86,7 @@ DrugBank|Cinnarizine|C(C=CC1=CC=CC=C1)N1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1|Benzop
 DrugBank|Cinnarizine|C(C=CC1=CC=CC=C1)N1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1|Cinnamaldehyde|O=C\C=C\C1=CC=CC=C1|CYP2C9|CYP1A2|CYP2A6|||||||||||||||||||||||
 DrugBank|Cinnarizine|C(C=CC1=CC=CC=C1)N1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1|1-Cinnamylpiperazine|C(\C=C\C1=CC=CC=C1)N1CCNCC1|CYP2C9|CYP1A2|CYP2A6|||||||||||||||||||||||
 DrugBank|Fenfluramine|CCNC(C)CC1=CC(=CC=C1)C(F)(F)F|norfenfluramine|CC(N)CC1=CC=CC(=C1)C(F)(F)F|CYP2D6|||||||||||||||||||||||||
-DrugBank|Diclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl|4'-Hydroxydiclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=C(O)C=C1Cl|CYP2C9|||||||||||||||||||||||||
+DrugBank|Diclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl|4-Hydroxydiclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=C(O)C=C1Cl|CYP2C9|||||||||||||||||||||||||
 DrugBank|Diclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl|Diclofenac acyl glucuronide|O[C@@H]1[C@@H](O)[C@H](OC(=O)CC2=CC=CC=C2NC2=C(Cl)C=CC=C2Cl)O[C@@H]([C@H]1O)C(O)=O|UGT2B7|UGT1-1||||||||||||||||||||||||
 DrugBank|Diclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl|3'-Hydroxydiclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC(O)=C1Cl|Prostaglandin G/H synthase 1|||||||||||||||||||||||||
 DrugBank|Diclofenac|OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl|5-Hydroxydiclofenac|OC(=O)CC1=CC(O)=CC=C1NC1=C(Cl)C=CC=C1Cl|CYP3A4|||||||||||||||||||||||||
