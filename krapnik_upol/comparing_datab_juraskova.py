@@ -72,28 +72,24 @@ def load_document_juraskova():
                 name_smile_juraskova.append((line[1], line[2]))
                 name_smile_juraskova.append((line[3], line[4]))
 
-    return set(sorted(name_smile_juraskova))
+    return sorted(set(name_smile_juraskova))
 
 
 # unify name and smile with PubChem, can be identified by prefixes ERROR
 def unify_structures_juraskova(unselected_structure):
     for name, smile in sorted(unselected_structure):
-        if name == '':
-            print('kkk', name)
-
-
-"""
-        for compound in get_compounds(name, 'name'):
-            print(f'{name} and {compound.cid}')
-            for structure in get_compounds(compound.cid, 'cid'):
-                # make file with similar and different items
-                if name != None or structure.iupac_name != None:
-                    logging.info(
-                        f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles} \n')
-                else:
-                    logging.info(f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles} \n')
-
-"""
+        if name == '' or smile == '':
+            logging.info(f'WARNING: {name} ; {structure.iupac_name}; {structure.canonical_smiles} \n')
+        else:
+            for compound in get_compounds(name, 'name'):
+                print(f'{name} and {compound.cid}')
+                for structure in get_compounds(compound.cid, 'cid'):
+                    # make file with similar and different items
+                    if name != None or structure.iupac_name != None:
+                        logging.info(
+                            f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles} \n')
+                    else:
+                        logging.info(f'ERROR: {name} ; {structure.iupac_name}; {structure.canonical_smiles} \n')
 
 
 # TODO nezarazene struktury prohnat pres pubchem a znovu porovnat s databzi, az potom posilat na vypocet.
@@ -118,50 +114,39 @@ def compare_juraskova_and_database_both(name_smile_juraskova, db):
         sql = 'select name,smiles from substances where name=%s and smiles=%s'
         if mycursor.execute(sql, [name1, smile]) == 1:
             result_set.append(mycursor.fetchall())
+            logging.info(f'MATCH: {name}; {smile}')
         else:
             structure_to_unify.append((name1, smile))
     return (structure_to_unify)
 
 
-"""
-   final_smile_name = []
-   for (name_j, smile_j) in name_smile_juraskova:
-       for (name_d, smile_d) in name_smile_databse:
-           if name_j == name_d and smile_j == smile_d:
-               final_smile_name.append((name_d, smile_d))
-               logging.info(f'{name_d}; {smile_d}')
-           else:
-               pass
-               # unify_structures_juraskova(set((name_j, smile_j)))
-   # Structures which DON'T have a form in databases are unified with PubChem.ncbi.nlm.nih.gov
-   unify_structures_juraskova(name_smile_juraskova.difference(name_smile_databse))
-"""
-
-
 def main():
     # remove logging file if it's already exist
-    # results.log contains solved structures and unsolved structures are send to PubChem
     db = MySQLdb.connect(user='petra', password='petra',
                          host='localhost',
                          database='molmedb')
 
     hdlr = logging.FileHandler(
-        f'results.log')
+        f'results_name_smile.log')
     hdlr.setFormatter(SpecialFormatter())
     logging.root.addHandler(hdlr)
     logging.root.setLevel(logging.INFO)
     logging.root.setLevel(logging.DEBUG)
-    tmpdir = tempfile.mkdtemp()
     logpipe = LogPipe(logging.DEBUG)
     logpipe_err = LogPipe(logging.DEBUG)
 
     name_smile_juraskova = load_document_juraskova()
+    # structure_to_unify are not in MolMeDB
     structure_to_unify = compare_juraskova_and_database_both(name_smile_juraskova, db)
-
+    # send structrue to PubChem
+    unify_structures_juraskova(structure_to_unify)
     logpipe.close()
     logpipe_err.close()
     db.close()
 
+
+# result is file result_name_smile.log where is countless(ERROR) strucutre
+#  or strucure without name or smile(WARNIG)
 
 if __name__ == '__main__':
     main()
