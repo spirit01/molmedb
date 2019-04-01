@@ -29,7 +29,7 @@ def make_list_for_calculation():
     name_smile = send_to_calculation()
     with open('list_name_canonic_smile_for_calculation', 'w+') as file:
         for name, smile in name_smile:
-            file.write(f'{name}; {smile} \n')
+            file.write(f'{smile} {name} \n')
 
 
 def main():
