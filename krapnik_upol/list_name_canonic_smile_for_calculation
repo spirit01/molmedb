@@ -1,0 +1,337 @@
+ CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(NCCO2)C3=CC=C(C=C3)F  (2~{R},3~{S})-2-[(1~{R})-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine 
+ CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(NCCO2)C3=CC=C(C=C3)F  (2~{R},3~{S})-2-[(1~{R})-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine 
+ CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F  (3~{R})-~{N}-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine 
+ CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F  (3~{S})-~{N}-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine 
+ CN1C2=C(NC1=O)N(C(=O)N(C2=O)C)C  1,3,7-trimethyl-9~{H}-purine-2,6,8-trione 
+ CN1C2=C(C(=O)N(C1=O)C)NC(=O)N2  1,3-dimethyl-7,9-dihydropurine-2,6,8-trione 
+ CN1C2=C(NC1=O)NC(=O)N(C2=O)C  1,7-dimethyl-3,9-dihydropurine-2,6,8-trione 
+ C1CN(CCN1)CC=CC2=CC=CC=C2  1-[(~{E})-3-phenylprop-2-enyl]piperazine 
+ CN1C(=O)C2=C(NC(=O)N2)NC1=O  1-methyl-7,9-dihydro-3~{H}-purine-2,6,8-trione 
+ CN1C(=O)C2=C(NC1=O)N=CN2  1-methyl-3,7-dihydropurine-2,6-dione 
+ C1=CC=C2C(=C1)C=CC=C2C=O  naphthalene-1-carbaldehyde 
+ C1=CC=C2C(=C1)C=CC=C2C(=O)O  naphthalene-1-carboxylic acid 
+ CC(=O)C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F  1-[3,5-bis(trifluoromethyl)phenyl]ethanone 
+ C1=CC=C2C(=C1)C(C(C3=CC=CC=C3N2C(=O)N)O)O  5,6-dihydroxy-5,6-dihydrobenzo[b][1]benzazepine-11-carboxamide 
+ C1=CC=C2C(=C1)C3C(O3)C4=CC=CC=C4N2C(=O)N  3-oxa-11-azatetracyclo[10.4.0.0^{2,4}.0^{5,10}]hexadeca-1(16),5,7,9,12,14-hexaene-11-carboxamide 
+ CCCCCC=CC=CC(CC=CCC=CCCCC(=O)O)O  (5~{Z},8~{Z},12~{E},14~{Z})-11-hydroxyicosa-5,8,12,14-tetraenoic acid 
+ CCCCCC=CCC(C=CC=CCC=CCCCC(=O)O)O  (5~{E},8~{Z},10~{Z},14~{Z})-12-hydroxyicosa-5,8,10,14-tetraenoic acid 
+ C(CCCCCC(=O)O)CCCCCO  12-hydroxydodecanoic acid 
+ CCCCCC(C=CC=CCC=CCC=CCCCC(=O)O)O  (5~{Z},8~{Z},11~{Z},13~{E})-15-hydroxyicosa-5,8,11,13-tetraenoic acid 
+ CC12CCC(=O)C=C1CCC3C2CCC4(C3C(CC4O)O)C  (8~{R},9~{S},10~{R},13~{S},14~{S},15~{S},17~{S})-15,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CC12CCC(=O)C=C1CCC3C2CCC4(C3C(CC4O)O)C  (8~{R},9~{S},10~{R},13~{S},14~{S},15~{R},17~{S})-15,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CCCCC(C=CCC=CCC=CCC=CCCCC(=O)O)O  (5~{Z},8~{Z},11~{Z},14~{Z})-16-hydroxyicosa-5,8,11,14-tetraenoic acid 
+ CC12CCC(=O)C=C1CCC3C2CCC4(C3CC(C4O)O)C  (8~{R},9~{S},10~{R},13~{S},14~{S},16~{R},17~{R})-16,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CC12CCC(=O)C=C1CCC3C2CCC4(C3CC(C4O)O)C  (8~{R},9~{S},10~{R},13~{S},14~{S},16~{S},17~{R})-16,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CCCC(CC=CCC=CCC=CCC=CCCCC(=O)O)O  (5~{Z},8~{Z},11~{Z},14~{Z})-17-hydroxyicosa-5,8,11,14-tetraenoic acid 
+ CCC(CCC=CCC=CCC=CCC=CCCCC(=O)O)O  (5~{Z},8~{Z},11~{Z},14~{Z})-18-hydroxyicosa-5,8,11,14-tetraenoic acid 
+ CC(=CC=CC(=CC(=O)O)C)C=CC1=C(CCCC1(C)C)CO  (2~{E},4~{E},6~{E},8~{E})-9-[2-(hydroxymethyl)-6,6-dimethylcyclohexen-1-yl]-3,7-dimethylnona-2,4,6,8-tetraenoic acid 
+ CC(CCCC=CCC=CCC=CCC=CCCCC(=O)O)O  (5~{Z},8~{Z},11~{Z},14~{Z})-19-hydroxyicosa-5,8,11,14-tetraenoic acid 
+ C1CN(C(=N1)NN=O)CC2=CN=C(C=C2)Cl  ~{N}-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitrous amide 
+ CN1CCCC1(C2=CN=CC=C2)O  1-methyl-2-pyridin-3-ylpyrrolidin-2-ol 
+ CC12CCC3C(C1CCC2O)CCC4=CC(=C(C=C34)O)O  (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-2,3,17-triol 
+ C1=CC=C2C(=C1)C=CC3=CC(=C(C=C3N2C(=O)N)O)O  2,3-dihydroxybenzo[b][1]benzazepine-11-carboxamide 
+ C1CN(CCN1)C2=C(C(=CC=C2)Cl)Cl  1-(2,3-dichlorophenyl)piperazine 
+ COC1=C(C=C(C=C1)CC=O)OC  2-(3,4-dimethoxyphenyl)acetaldehyde 
+ COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCO  2-[4-(3-ethynylanilino)-6-(2-methoxyethoxy)quinazolin-7-yl]oxyethanol 
+ C1=CC(=CC=C1CC=O)O  2-(4-hydroxyphenyl)acetaldehyde 
+ C1CN(P(=O)(OC1)N)CCCl  3-(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine 
+ C1=CC=C(C=C1)C(COC(=O)N)(COC(=O)N)O  (3-carbamoyloxy-2-hydroxy-2-phenylpropyl) carbamate 
+ C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F  7-chloro-5-(2-fluorophenyl)-1-(2,2,2-trifluoroethyl)-3~{H}-1,4-benzodiazepin-2-one 
+ C1=CC=C(C=C1)C(CO)COC(=O)N  (3-hydroxy-2-phenylpropyl) carbamate 
+ C(=C(F)F)Cl  2-chloro-1,1-difluoroethene 
+ C1CCC(CC1)C(C2=CC=CC=C2)(C(=O)O)O  2-cyclohexyl-2-hydroxy-2-phenylacetic acid 
+ C1=CC=C2C(=C1)C=CC3=C(N2C(=O)N)C=CC(=C3)O  3-hydroxybenzo[b][1]benzazepine-11-carboxamide 
+ CC12CCC3C(C1CCC2O)CCC4=CC(=C(C=C34)O)O  (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-2,3,17-triol 
+ CC12CCC3C(C1CCC2=O)CCC4=CC(=C(C=C34)O)O  (8~{R},9~{S},13~{S},14~{S})-2,3-dihydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-17-one 
+ C1=CC=C2C(=C1)C=CC3=C(N2)C=CC(=C3)O  11~{H}-benzo[b][1]benzazepin-3-ol 
+ C1=CC=C(C(=C1)C(=O)CS(=O)(=O)N)O  2-(2-hydroxyphenyl)-2-oxoethanesulfonamide 
+ C1CCN(C1)S(=O)(=O)CC2=CC3=C(C=C2)NC=C3CCO  2-[5-(pyrrolidin-1-ylsulfonylmethyl)-1~{H}-indol-3-yl]ethanol 
+ C(CCC=CCC=CCC=CCC=CCCCC(=O)O)CCO  (5~{Z},8~{Z},11~{Z},14~{Z})-20-hydroxyicosa-5,8,11,14-tetraenoic acid 
+ CC12CCC3C(C1CCC2C(=O)CO)CCC4=CC(=O)CCC34C  (8~{S},9~{S},10~{R},13~{S},14~{S},17~{S})-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CC12CCC3C(C1CCC2O)CCC4=CC(=O)C(CC34C)O  (2~{R},8~{R},9~{S},10~{R},13~{S},14~{S},17~{S})-2,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CC12CCC3C(C1CCC2O)CCC4=CC(=O)C(CC34C)O  (2~{S},8~{R},9~{S},10~{R},13~{S},14~{S},17~{S})-2,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC(=C2Cl)O)Cl  2-[2-(2,6-dichloro-3-hydroxyanilino)phenyl]acetic acid 
+ CCC(=C(C1=CC=C(C=C1)OCCN(C)C)C2=CC(=C(C=C2)O)O)C3=CC=CC=C3  4-[(~{E})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]benzene-1,2-diol 
+ C1=CC(=CC=C1OCCC=O)F  3-(4-fluorophenoxy)propanal 
+ CNCCC(=O)C1=CC=CC=C1  3-(methylamino)-1-phenylpropan-1-one 
+ C1=CC=C(C=C1)C(COC(=O)N)C=O  (3-oxo-2-phenylpropyl) carbamate 
+ C1CNP(=O)(OC1)NCCCl  ~{N}-(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine 
+ CC(=O)NC1=CC(=C(C=C1)O)O  ~{N}-(3,4-dihydroxyphenyl)acetamide 
+ C1=CC=C2C(=C1)C=C(C(=O)O2)O  3-hydroxychromen-2-one 
+ C1CCC23CCNC(C2C1)CC4=C3C=C(C=C4)O  (1~{R},9~{R},10~{R})-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-trien-4-ol 
+ COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4(C=C)O)O  (3~{S},4~{S},6~{R})-3-ethenyl-6-[(~{S})-hydroxy-(6-methoxyquinolin-4-yl)methyl]-1-azabicyclo[2.2.2]octan-3-ol 
+ CCC(=C(C1=CC=C(C=C1)OCCN(C)C)C2=CC(=CC=C2)O)C3=CC=CC=C3  3-[(~{E})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol 
+ CCCC(C(CC)O)C(=O)O  3-hydroxy-2-propylpentanoic acid 
+ COC1=CC2=C(CC3C4C2(CCCC4)CCN3)C=C1  (1~{R},9~{R},10~{R})-4-methoxy-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-triene 
+ C1=CC=C2C(=C1)C=CC3=C(N2C(=O)N)C=C(C=C3)O  2-hydroxybenzo[b][1]benzazepine-11-carboxamide 
+ CCN(CC)CC(=O)NC1=C(C=CC(=C1C)O)C  2-(diethylamino)-~{N}-(3-hydroxy-2,6-dimethylphenyl)acetamide 
+ COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4(C=C)O)O  (3~{S},4~{S},6~{S})-3-ethenyl-6-[(~{R})-hydroxy-(6-methoxyquinolin-4-yl)methyl]-1-azabicyclo[2.2.2]octan-3-ol 
+ CN1C2=C(C(=O)NC1=O)NC=N2  3-methyl-7~{H}-purine-2,6-dione 
+ CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=C(C=C3)O  4-[(~{Z})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-1-phenylbut-1-en-2-yl]phenol 
+ C1CNCCC1(C2=CC=C(C=C2)Cl)O  4-(4-chlorophenyl)piperidin-4-ol 
+ CCN(CC)CC#CCO  4-(diethylamino)but-2-yn-1-ol 
+ C1=CC(=CC=C1N=C(N)N=C(N)N)Cl  2-(4-chlorophenyl)-1-(diaminomethylidene)guanidine 
+ CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)CO  1-butyl-3-[4-(hydroxymethyl)phenyl]sulfonylurea 
+ C1C(C(NC(=O)O1)O)C2=CC=CC=C2  4-hydroxy-5-phenyl-1,3-oxazinan-2-one 
+ CC1=C(C(=O)N(N1C)C2=CC=CC=C2)O  4-hydroxy-1,5-dimethyl-2-phenylpyrazol-3-one 
+ C1COP(=O)(NC1O)N(CCCl)CCCl  2-[bis(2-chloroethyl)amino]-2-oxo-1,3,2$l^{5}-oxazaphosphinan-4-ol 
+ C1C(C2=CC=CC=C2CN1C(=N)N)O  4-hydroxy-3,4-dihydro-1~{H}-isoquinoline-2-carboximidamide 
+ CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4O)O  (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,4,17-triol 
+ C1COP(=O)(N(C1O)CCCl)NCCCl  3-(2-chloroethyl)-2-(2-chloroethylamino)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-4-ol 
+ CC1=C(C(CCC1O)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C  (2~{E},4~{E},6~{E},8~{E})-9-(3-hydroxy-2,6,6-trimethylcyclohexen-1-yl)-3,7-dimethylnona-2,4,6,8-tetraenoic acid 
+ CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3  4-[(~{Z})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol 
+ CCCC(CC(C)O)C(=O)O  4-hydroxy-2-propylpentanoic acid 
+ C1COP(=O)(NC1=O)N(CCCl)CCCl  2-[bis(2-chloroethyl)amino]-2-oxo-1,3,2$l^{5}-oxazaphosphinan-4-one 
+ CC1=C(C(CCC1=O)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C  (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethyl-3-oxocyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid 
+ C1=CC(=CC=C1N)O  4-aminophenol 
+ CN1C2=CC=CC=C2C(=C(C1=O)C(=O)NC3=CC=CC=C3)O  4-hydroxy-1-methyl-2-oxo-~{N}-phenylquinoline-3-carboxamide 
+ CC(=O)CC(C1=CC2=C(C=C1)C=C(C=C2)OC)O  4-hydroxy-4-(6-methoxynaphthalen-2-yl)butan-2-one 
+ CC(CC1=CC=C(C=C1)O)N  4-(2-aminopropyl)phenol 
+ CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4O)O  (8~{R},9~{S},13~{S},14~{S})-3,4-dihydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-17-one 
+ CCC(=C(C1=CC=C(C=C1)OCCN(C)C)C2=CC=C(C=C2)OS(=O)(=O)O)C3=CC=CC=C3  [4-[(~{Z})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenyl] hydrogen sulfate 
+ CC(=CC=CC(=CC(=O)O)C)C=CC12C(CCCC1(O2)C)(C)C  (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)nona-2,4,6,8-tetraenoic acid 
+ CC(=O)NC1=C(NC(=O)N(C1=O)C)NC=O  ~{N}-(6-formamido-3-methyl-2,4-dioxo-1~{H}-pyrimidin-5-yl)acetamide 
+ C1CNCCC1N2C3=C(C=C(C=C3)Cl)NC2=O  6-chloro-3-piperidin-4-yl-1~{H}-benzimidazol-2-one 
+ CC1(C2CC(=O)C1(CC2O)C)C  (1~{R},4~{R},5~{R})-5-hydroxy-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one 
+ CCCCCC=CCC=CCC=CC=CC(CCCC(=O)O)O  (5~{S},6~{E},8~{Z},11~{Z},14~{Z})-5-hydroxyicosa-6,8,11,14-tetraenoic acid 
+ C1=CC(=C(C(=C1)Cl)NC2=C(C=C(C=C2)O)CC(=O)O)Cl  2-[2-(2,6-dichloroanilino)-5-hydroxyphenyl]acetic acid 
+ CCCC(CCCO)C(=O)O  5-hydroxy-2-propylpentanoic acid 
+ C1C(C(=O)NC(=O)O1)C2=CC=CC=C2  5-phenyl-1,3-oxazinane-2,4-dione 
+ C1=CC(=C(C=C1N)C(=O)O)O  5-amino-2-hydroxybenzoic acid 
+ C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl  5-chloro-~{N}-(4,5-dihydro-1~{H}-imidazol-2-yl)-2,1,3-benzothiadiazol-4-amine 
+ CCC1(C(=O)NC(=O)O1)C  5-ethyl-5-methyl-1,3-oxazolidine-2,4-dione 
+ C1=C(C(=O)NC(=O)N1)F  5-fluoro-1~{H}-pyrimidine-2,4-dione 
+ C(CC(=O)NCCS(=O)(=O)O)C(C(=O)O)N  (2~{S})-2-amino-5-oxo-5-(2-sulfoethylamino)pentanoic acid 
+ C1=C(N=CC(=O)N1)C(=O)N  6-oxo-1~{H}-pyrazine-3-carboxamide 
+ CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)O  ~{N}-[2-(6-hydroxy-5-methoxy-1~{H}-indol-3-yl)ethyl]acetamide 
+ C1=NC2=C(N1)C(=S)N=CN2  3,7-dihydropurine-6-thione 
+ C1=NC(=S)C2=C(N1)N(C=N2)C3C(C(C(O3)CO)O)O  9-[(2~{R},3~{R},4~{S},5~{R})-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-3~{H}-purine-6-thione 
+ CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)O)CCN3C  (9-hydroxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl) acetate 
+ C1=NC(=S)C2=C(N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O  [(2~{R},3~{S},4~{R},5~{R})-3,4-dihydroxy-5-(6-sulfanylidene-3~{H}-purin-9-yl)oxolan-2-yl]methyl dihydrogen phosphate 
+ CC12CCC(=O)C=C1C(CC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O)O  (6~{R},10~{R},11~{S},13~{S},17~{R})-6,11,17-trihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1~{H}-cyclopenta[a]phenanthren-3-one 
+ CC12CCC3C(C1CCC2O)CC(C4=CC(=O)CCC34C)O  (6~{R},10~{R},13~{S},17~{S})-6,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ C1=C2C(=CC(=C1Cl)O)OC(=O)N2  5-chloro-6-hydroxy-3~{H}-1,3-benzoxazol-2-one 
+ C1=CC(=CC2=C1C=CC(=O)O2)O  7-hydroxychromen-2-one 
+ CC1=NC=CC2=C1NC3=C2C=CC(=C3)OC  7-methoxy-1-methyl-9~{H}-pyrido[3,4-b]indole 
+ CCCCCC=CCC=CC=CC(CC=CCCCC(=O)O)O  (5~{Z},9~{E},11~{Z},14~{Z})-8-hydroxyicosa-5,9,11,14-tetraenoic acid 
+ C12=C(NC(=NC1=S)N)NC(=O)N2  2-amino-6-sulfanylidene-7,9-dihydro-3~{H}-purin-8-one 
+ CCCCCC=CCC=CCC(C=CC=CCCCC(=O)O)O  (5~{Z},7~{E},11~{Z},14~{Z})-9-hydroxyicosa-5,7,11,14-tetraenoic acid 
+ CC1=C(C(=O)N2CCCC(C2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F  3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-9-hydroxy-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one 
+ CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCCC(=O)N)O  [[(3~{R})-4-[[3-[(4-amino-4-oxobutyl)amino]-3-oxopropyl]amino]-3-hydroxy-2,2-dimethyl-4-oxobutoxy]-hydroxyphosphoryl] [(2~{R},3~{S},4~{R},5~{R})-5-(6-aminopurin-9-yl)-4-hydroxy-3-phosphonooxyoxolan-2-yl]methyl hydrogen phosphate 
+ CC(=O)NC1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O  (2~{S},3~{S},4~{S},5~{R},6~{S})-6-(4-acetamidophenoxy)-3,4,5-trihydroxyoxane-2-carboxylic acid 
+ CC(=O)NC1=CC=C(C=C1)OS(=O)(=O)O  (4-acetamidophenyl) hydrogen sulfate 
+ CC(=O)[O-]  acetate 
+ C=CC=O  prop-2-enal 
+ C=CC(=O)O  prop-2-enoic acid 
+ C(CO)COP(=O)(N)N(CCCl)CCCl  3-[amino-[bis(2-chloroethyl)amino]phosphoryl]oxypropan-1-ol 
+ C(COP(=O)(N)N(CCCl)CCCl)C=O  3-[amino-[bis(2-chloroethyl)amino]phosphoryl]oxypropanal 
+ CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=O)C)C  (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal 
+ CN(C)CCC1=CNC2=C1C=C(C=C2)CS(=O)(=O)N3CCCC3  ~{N},~{N}-dimethyl-2-[5-(pyrrolidin-1-ylsulfonylmethyl)-1~{H}-indol-3-yl]ethanamine 
+ C1=CC(=CC=C1C(F)(F)F)O  4-(trifluoromethyl)phenol 
+ CC(C(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3)O  (~{E})-4-[4-[2-(dimethylamino)ethoxy]phenyl]-3,4-diphenylbut-3-en-2-ol 
+ CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C  4-(dimethylamino)-1,5-dimethyl-2-phenylpyrazol-3-one 
+ CC(CC1=CC=CC=C1)N  1-phenylpropan-2-amine 
+ CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4=O)C  (8~{R},9~{S},10~{R},13~{S},14~{S})-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1~{H}-cyclopenta[a]phenanthrene-3,17-dione 
+ CCCCCC=CCC=CCC=CCC=CCCCC(=O)O  (5~{Z},8~{Z},11~{Z},14~{Z})-icosa-5,8,11,14-tetraenoic acid 
+ C1CC(=O)NC2=C1C=CC(=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl  7-[4-[4-(2,3-dichlorophenyl)piperazin-1-yl]butoxy]-3,4-dihydro-1~{H}-quinolin-2-one 
+ CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-]  6-(3-methyl-5-nitroimidazol-4-yl)sulfanyl-7~{H}-purine 
+ CN1CCN(CC1)CC(=O)N(C)C2=CC=C(C=C2)NC(=C3C4=C(C=C(C=C4)C(=O)O)NC3=O)C5=CC=CC=C5  (3~{Z})-3-[[4-[methyl-[2-(4-methylpiperazin-1-yl)acetyl]amino]anilino]-phenylmethylidene]-2-oxo-1~{H}-indole-6-carboxylic acid 
+ CC(C)(C)NCC(C1=CC(=CC(=C1)OC(=O)N(C)C)OC(=O)N(C)C)O  [3-[2-(~{tert}-butylamino)-1-hydroxyethyl]-5-(dimethylcarbamoyloxy)phenyl] ~{N},~{N}-dimethylcarbamate 
+ C1=CC=C(C=C1)CO  phenylmethanol 
+ CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O  (1~{S},2~{S},6~{R},14~{R},15~{R},16~{R})-5-(cyclopropylmethyl)-16-[(2~{S})-2-hydroxy-3,3-dimethylbutan-2-yl]-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.1^{2,8}.0^{1,6}.0^{2,14}.0^{12,20}]icosa-8(20),9,11-trien-11-ol 
+ CC1(C2CCC1(C(=O)C2)C)C  1,7,7-trimethylbicyclo[2.2.1]heptan-2-one 
+ C(=O)=O  None 
+ C(COP(=O)(N)N(CCCl)CCCl)C(=O)O  3-[amino-[bis(2-chloroethyl)amino]phosphoryl]oxypropanoic acid 
+ C(C(Cl)(Cl)Cl)(O)O  2,2,2-trichloroethane-1,1-diol 
+ C(C=O)Cl  2-chloroacetaldehyde 
+ C[N+](C)(C)CCO  2-hydroxyethyl(trimethyl)azanium 
+ C1=CC=C(C=C1)C=CC=O  (~{E})-3-phenylprop-2-enal 
+ COC1CN(CCC1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F  4-amino-5-chloro-~{N}-[1-[3-(4-fluorophenoxy)propyl]-3-methoxypiperidin-4-yl]-2-methoxybenzamide 
+ C[N+](C)(CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F)[O-]  3-[5-cyano-1-(4-fluorophenyl)-3~{H}-2-benzofuran-1-yl]-~{N},~{N}-dimethylpropan-1-amine oxide 
+ C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)C(=O)O  7-chloro-2-oxo-5-phenyl-1,3-dihydro-1,4-benzodiazepine-3-carboxylic acid 
+ CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC  methyl (1~{R},2~{R},3~{S},5~{S})-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)OC6C(C(C(C(O6)C(=O)O)O)O)O  (2~{S},3~{S},4~{S},5~{R},6~{R})-6-[[(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-methoxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid 
+ CN1C(CCC1=O)C2=CN=CC=C2  (5~{S})-1-methyl-5-pyridin-3-ylpyrrolidin-2-one 
+ C1=CC=C2C(=C1)C=CC(=O)O2  chromen-2-one 
+ C1CN(CC2=CC=CC=C21)C(=N)N  3,4-dihydro-1~{H}-isoquinoline-2-carboximidamide 
+ C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4  13-chloro-2-piperidin-4-ylidene-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaene 
+ CC(CC1=CC=CC=C1)N  (2~{S})-1-phenylpropan-2-amine 
+ CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)O  (1~{S},9~{S},10~{S})-17-methyl-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-trien-4-ol 
+ CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC5C(C(C(C(O5)C(=O)O)O)O)O  (2~{S},3~{S},4~{S},5~{R})-3,4,5-trihydroxy-6-[[(1~{S},9~{S},10~{S})-17-methyl-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-trien-4-yl]oxy]oxane-2-carboxylic acid 
+ C1=CC=C(C(=C1)CC(=O)OC2C(C(C(C(O2)C(=O)O)O)O)O)NC3=C(C=CC=C3Cl)Cl  (2~{S},3~{S},4~{S},5~{R},6~{S})-6-[2-[2-(2,6-dichloroanilino)phenyl]acetyl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(CC4)O  (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-3-methyl-2,4,4~{a},5,6,7,7~{a},13-octahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol 
+ CC12CCC(=O)CC1CCC3C2CCC4(C3CCC4O)C  (5~{S},8~{R},9~{S},10~{S},13~{S},14~{S},17~{S})-17-hydroxy-10,13-dimethyl-1,2,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthren-3-one 
+ CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(CO)O)O)N)O  (7~{S},9~{S})-7-[(2~{R},4~{S},5~{S},6~{S})-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-9-[(1~{S})-1,2-dihydroxyethyl]-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7~{H}-tetracene-5,12-dione 
+ CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CCC(CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4  4-(4-benzhydryloxypiperidin-1-yl)-1-(4-~{tert}-butylphenyl)butan-1-one 
+ CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3  4-[(~{Z})-1-[4-[2-(methylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol 
+ C(C(OC(F)F)(F)F)(F)Cl  2-chloro-1-(difluoromethoxy)-1,1,2-trifluoroethane 
+ COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC  ~{N}-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)quinazolin-4-amine 
+ CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O  (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol 
+ CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl  [(7~{S})-6-(5-chloropyridin-2-yl)-5-oxo-7~{H}-pyrrolo[3,4-b]pyrazin-7-yl] 4-methylpiperazine-1-carboxylate 
+ CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O  (8~{R},9~{S},13~{S},14~{S},17~{R})-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthrene-3,17-diol 
+ CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)OC8C(C(C(C(O8)C(=O)O)O)O)O)OC)O)O  (2~{S},3~{S},4~{S},5~{R},6~{S})-6-[4-[(5~{S},5~{a}~{R},8~{a}~{R},9~{R})-5-[[(2~{R},4~{a}~{R},6~{R},7~{R},8~{R},8~{a}~{S})-7,8-dihydroxy-2-methyl-4,4~{a},6,7,8,8~{a}-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-8-oxo-5~{a},6,8~{a},9-tetrahydro-5~{H}-[2]benzofuro[5,6-f][1,3]benzodioxol-9-yl]-2,6-dimethoxyphenoxy]-3,4,5-trihydroxyoxane-2-carboxylic acid 
+ C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N  (3-carbamoyloxy-2-phenylpropyl) carbamate 
+ CCNC(C)CC1=CC(=CC=C1)C(F)(F)F  ~{N}-ethyl-1-[3-(trifluoromethyl)phenyl]propan-2-amine 
+ CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3  ~{N}-phenyl-~{N}-[1-(2-phenylethyl)piperidin-4-yl]propanamide 
+ C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F  ~{N}-(piperidin-2-ylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)benzamide 
+ C1C(C(OC1N2C=C(C(=O)NC2=O)F)CO)O  5-fluoro-1-[(2~{R},4~{S},5~{R})-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione 
+ C1=C(C(=O)NC(=O)N1)F  5-fluoro-1~{H}-pyrimidine-2,4-dione 
+ CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F  ~{N}-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine 
+ C(C1C(C(C(C(O1)O)O)O)O)O  (3~{R},4~{S},5~{S},6~{R})-6-(hydroxymethyl)oxane-2,3,4,5-tetrol 
+ C1=CC(=C(C(=C1)Cl)C=NN=C(N)N)Cl  2-[(~{E})-(2,6-dichlorophenyl)methylideneamino]guanidine 
+ C1=CC(=C(C(=C1)Cl)C=NN=C(N)NO)Cl  2-[(~{E})-(2,6-dichlorophenyl)methylideneamino]-1-hydroxyguanidine 
+ C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F  4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one 
+ C(C(F)(F)F)(Cl)Br  2-bromo-2-chloro-1,1,1-trifluoroethane 
+ CC1=C2C(=C3C=CC(=O)C=C3N2)C=CN1  1-methyl-2,9-dihydropyrido[3,4-b]indol-7-one 
+ CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)C)CCN3C  [(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-acetyloxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] acetate 
+ COC1=C(C=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O  (2~{S})-5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)-2,3-dihydrochromen-4-one 
+ C1=CC=C(C=C1)C(=O)NCC(=O)O  2-benzamidoacetic acid 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(=O)CC4  (4~{R},4~{a}~{R},7~{a}~{R},12~{b}~{S})-9-methoxy-3-methyl-1,2,4,4~{a},5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one 
+ CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O  (8~{S},9~{S},10~{R},11~{S},13~{S},14~{S},17~{R})-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1~{H}-cyclopenta[a]phenanthren-3-one 
+ [SeH2]  selane 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)CC4  (4~{R},4~{a}~{R},7~{a}~{R},12~{b}~{S})-9-hydroxy-3-methyl-1,2,4,4~{a},5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one 
+ C1=CC(=CC=C1O)O  benzene-1,4-diol 
+ CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)CO  1-(3-chlorophenyl)-2-[(1-hydroxy-2-methylpropan-2-yl)amino]propan-1-one 
+ C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=C(C=C3)O  5-(4-hydroxyphenyl)-5-phenylimidazolidine-2,4-dione 
+ C1CN(P(=O)(OC1)NCCCl)CCCl  ~{N},3-bis(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine 
+ C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(C=C2)Cl  ~{N}-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide 
+ CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31  3-(5,6-dihydrobenzo[b][1]benzazepin-11-yl)-~{N},~{N}-dimethylpropan-1-amine 
+ CNC1(CCCCC1=O)C2=CC=CC=C2Cl  2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one 
+ CCN(C1=CC=CC=C1)C(=O)C2=C(C3=C(C=CC=C3Cl)N(C2=O)C)O  5-chloro-~{N}-ethyl-4-hydroxy-1-methyl-2-oxo-~{N}-phenylquinoline-3-carboxamide 
+ CCCCCCCCCCCC(=O)O  dodecanoic acid 
+ CC(CC1=CC=CC=C1)NC  (2~{R})-~{N}-methyl-1-phenylpropan-2-amine 
+ CCC(C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C  [(3~{S},6~{S})-6-(dimethylamino)-4,4-diphenylheptan-3-yl] acetate 
+ CCN(CC)CC(=O)NC1=C(C=CC=C1C)C  2-(diethylamino)-~{N}-(2,6-dimethylphenyl)acetamide 
+ CC(CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C)O  1-[(5~{R})-5-hydroxyhexyl]-3,7-dimethylpurine-2,6-dione 
+ CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1  ethyl 4-(13-chloro-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaen-2-ylidene)piperidine-1-carboxylate 
+ C1CN(CCN1)C2=CC(=CC=C2)Cl  1-(3-chlorophenyl)piperazine 
+ CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC  ~{N}-[2-(5-methoxy-1~{H}-indol-3-yl)ethyl]acetamide 
+ CCC1(C(=O)N(C(=O)N1)C)C2=CC=CC=C2  5-ethyl-3-methyl-5-phenylimidazolidine-2,4-dione 
+ C1=NC2=C(N1)C(=S)N=CN2  3,7-dihydropurine-6-thione 
+ CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)OC  (8~{R},9~{S},13~{S},14~{S},17~{R})-17-ethynyl-3-methoxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-17-ol 
+ CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2  6-(dimethylamino)-4,4-diphenylheptan-3-one 
+ CC(CC1=CC=CC=C1)NC  (2~{S})-~{N}-methyl-1-phenylpropan-2-amine 
+ CC1=NC(=S)C2=C(N1)N=CN2  2-methyl-3,7-dihydropurine-6-thione 
+ CCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+](C)(C)C  hexadecyl 2-(trimethylazaniumyl)ethyl phosphate 
+ C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N  2-benzhydrylsulfinylacetamide 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O  (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol 
+ CC(=O)NCCC1=CNC2=C1C=C(C=C2)O  ~{N}-[2-(5-hydroxy-1~{H}-indol-3-yl)ethyl]acetamide 
+ CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3  2-[4-[(~{Z})-1,2-diphenylbut-1-enyl]phenoxy]-~{N}-methylethanamine 
+ C1=CC=C(C=C1)NO  ~{N}-phenylhydroxylamine 
+ CCC(=O)NC1=CC=CC=C1  ~{N}-phenylpropanamide 
+ CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)C  ~{N}-[4-[(5-methyl-1,2-oxazol-3-yl)sulfamoyl]phenyl]acetamide 
+ CC(=O)N=C1C=CC(=O)C=C1  ~{N}-(4-oxocyclohexa-2,5-dien-1-ylidene)acetamide 
+ CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC  4-(6-methoxynaphthalen-2-yl)butan-2-one 
+ CC(C)C1CCC(CC1)C(=O)NC(CC2=CC=CC=C2)C(=O)O  (2~{R})-3-phenyl-2-[(4-propan-2-ylcyclohexanecarbonyl)amino]propanoic acid 
+ CCC1=NN(C(=O)N1CCOC2=CC=CC=C2)CCCN3CCN(CC3)C4=CC(=CC=C4)Cl  2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-5-ethyl-4-(2-phenoxyethyl)-1,2,4-triazol-3-one 
+ COC1=NC(=NC2=C1N=CN2C3C(C(C(O3)CO)O)O)N  (2~{R},3~{S},4~{S},5~{R})-2-(2-amino-6-methoxypurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol 
+ CN1CCCC1C2=CN=CC=C2  3-[(2~{S})-1-methylpyrrolidin-2-yl]pyridine 
+ CN1CCCC1C2=C[N+](=CC=C2)C3C(C(C(C(O3)C(=O)[O-])O)O)O  (2~{S},3~{S},4~{S},5~{R},6~{S})-3,4,5-trihydroxy-6-[3-[(2~{S})-1-methylpyrrolidin-2-yl]pyridin-1-ium-1-yl]oxane-2-carboxylate 
+ C[N+]1=CCCC1C2=CN=CC=C2  3-(1-methyl-3,4-dihydro-2~{H}-pyrrol-1-ium-2-yl)pyridine 
+ CCC1(C(=O)NC(=O)N1)C2=CC=CC=C2  5-ethyl-5-phenylimidazolidine-2,4-dione 
+ [N+](=O)([O-])[O-]  nitrate 
+ [N]=O  nitric oxide 
+ CC1=NN(C(=O)C1)C2=CC=CC=C2  5-methyl-2-phenyl-4~{H}-pyrazol-3-one 
+ CC(C)(C)C(C)(C1CC23CCC1(C4C25CCNC3CC6=C5C(=C(C=C6)O)O4)OC)O  (1~{S},2~{S},6~{R},14~{R},15~{R},16~{R})-16-[(2~{S})-2-hydroxy-3,3-dimethylbutan-2-yl]-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.1^{2,8}.0^{1,6}.0^{2,14}.0^{12,20}]icosa-8(20),9,11-trien-11-ol 
+ C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3  7-chloro-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one 
+ C1CCC(C(=O)C1)(C2=CC=CC=C2Cl)N  2-amino-2-(2-chlorophenyl)cyclohexan-1-one 
+ CC(C)C(CCCNCCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC  2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethylamino]-2-propan-2-ylpentanenitrile 
+ CN(C)CC1CCCCC1(C2=CC(=CC=C2)O)O  3-[(1~{R},2~{R})-2-[(dimethylamino)methyl]-1-hydroxycyclohexyl]phenol 
+ C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O  7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one 
+ CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O  4-(diethylamino)but-2-ynyl 2-cyclohexyl-2-hydroxy-2-phenylacetate 
+ CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O  (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a}-hydroxy-9-methoxy-3-methyl-2,4,5,6,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one 
+ CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O  (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a},9-dihydroxy-3-methyl-2,4,5,6,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one 
+ CCC1(C(=O)N(C(=O)O1)C)C  5-ethyl-3,5-dimethyl-1,3-oxazolidine-2,4-dione 
+ CN1C=NC2=C1C(=O)N(C(=O)N2)C  1,7-dimethyl-3~{H}-purine-2,6-dione 
+ CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C  3,7-dimethyl-1-(5-oxohexyl)purine-2,6-dione 
+ CCOC1=CC=C(C=C1)NC(=O)C  ~{N}-(4-ethoxyphenyl)acetamide 
+ CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2  5-ethyl-5-phenyl-1,3-diazinane-2,4,6-trione 
+ C1=CC=C(C=C1)O  phenol 
+ C1=CC=C(C=C1)CC=O  2-phenylacetaldehyde 
+ C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3  5,5-diphenylimidazolidine-2,4-dione 
+ CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O  (8~{S},9~{S},10~{R},11~{S},13~{S},14~{S},17~{R})-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-3-one 
+ CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C  (8~{S},9~{S},10~{R},13~{S},14~{S},17~{R})-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione 
+ CCC1(C(=O)NCNC1=O)C2=CC=CC=C2  5-ethyl-5-phenyl-1,3-diazinane-4,6-dione 
+ CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C  (8~{S},9~{S},10~{R},13~{S},14~{S},17~{S})-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CC(C)N=C(N)N=C(N)NC1=CC=C(C=C1)Cl  (1~{E})-1-[amino-(4-chloroanilino)methylidene]-2-propan-2-ylguanidine 
+ C1=CN=C(C=N1)C(=O)N  pyrazine-2-carboxamide 
+ C1=CC=[N+](C=C1)[O-]  1-oxidopyridin-1-ium 
+ C1C(=S)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F  7-chloro-5-(2-fluorophenyl)-1-(2,2,2-trifluoroethyl)-3~{H}-1,4-benzodiazepine-2-thione 
+ COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O  (~{S})-[(2~{R},4~{S},5~{R})-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol 
+ COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O  (~{R})-[(2~{S},4~{S},5~{R})-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol 
+ CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F  3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one 
+ CCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C  (2~{S})-~{N}-(2,6-dimethylphenyl)-1-propylpiperidine-2-carboxamide 
+ CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O  4-hydroxy-~{N},1-dimethyl-2-oxo-~{N}-phenylquinoline-3-carboxamide 
+ C1=CC=C(C(=C1)C(=O)O)O  2-hydroxybenzoic acid 
+ CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O  (2~{S})-~{N}-[(2~{S},3~{R})-4-[(3~{S},4~{a}~{S},8~{a}~{S})-3-(~{tert}-butylcarbamoyl)-3,4,4~{a},5,6,7,8,8~{a}-octahydro-1~{H}-isoquinolin-2-yl]-3-hydroxy-1-phenylbutan-2-yl]-2-(quinoline-2-carbonylamino)butanediamide 
+ O[Se](=O)O  selenous acid 
+ C(C(C(=O)O)N)[Se]  (2~{R})-2-amino-3-$l^{1}-selanylpropanoic acid 
+ C1=CC=C(C=C1)C(CCN)OC2=CC=C(C=C2)C(F)(F)F  (3~{S})-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine 
+nitrite  sodium 
+4-hydroxybutanoate  sodium 
+ CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F  4-[4-[[4-chloro-3-(trifluoromethyl)phenyl]carbamoylamino]phenoxy]-~{N}-methylpyridine-2-carboxamide 
+ C(CC(=O)O)C(=O)O  butanedioic acid 
+ C(CC(=O)O)C=O  4-oxobutanoic acid 
+ CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N  4-amino-~{N}-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide 
+ CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3  2-[4-[(~{Z})-1,2-diphenylbut-1-enyl]phenoxy]-~{N},~{N}-dimethylethanamine 
+ CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCC[N+](C)(C)[O-])C3=CC=CC=C3  2-[4-[(~{Z})-1,2-diphenylbut-1-enyl]phenoxy]-~{N},~{N}-dimethylethanamine oxide 
+ C(CS(=O)(=O)O)N  2-aminoethanesulfonic acid 
+ C1CC(OC1)N2C=C(C(=O)NC2=O)F  5-fluoro-1-(oxolan-2-yl)pyrimidine-2,4-dione 
+ CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3  7-chloro-3-hydroxy-1-methyl-5-phenyl-3~{H}-1,4-benzodiazepin-2-one 
+ CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3  7-chloro-3-hydroxy-1-methyl-5-phenyl-3~{H}-1,4-benzodiazepin-2-one 
+ CC(CN1C=NC2=C1N=CN=C2N)OCP(=O)(O)O  [(2~{R})-1-(6-aminopurin-9-yl)propan-2-yl]oxymethylphosphonic acid 
+ CC(C)OC(=O)C(C)NP(=O)(COC(C)CN1C=NC2=C1N=CN=C2N)OC3=CC=CC=C3  propan-2-yl (2~{S})-2-[[[(2~{R})-1-(6-aminopurin-9-yl)propan-2-yl]oxymethyl-phenoxyphosphoryl]amino]propanoate 
+ CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21  (~{E})-~{N},6,6-trimethyl-~{N}-(naphthalen-1-ylmethyl)hept-2-en-4-yn-1-amine 
+ CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O  1-(4-~{tert}-butylphenyl)-4-[4-[hydroxy(diphenyl)methyl]piperidin-1-yl]butan-1-ol 
+ CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C  (8~{R},9~{S},10~{R},13~{S},14~{S},17~{S})-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one 
+ CN1C2=C(C(=O)N(C1=O)C)NC=N2  1,3-dimethyl-7~{H}-purine-2,6-dione 
+ C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)S)NC(=NC2=O)N  [(2~{R},3~{R},4~{R},5~{R})-5-(2-amino-6-oxo-3~{H}-purin-9-yl)-3-hydroxy-4-sulfanyloxolan-2-yl]methyl dihydrogen phosphate 
+ C12=C(NC(=O)N1)NC(=S)NC2=O  2-sulfanylidene-7,9-dihydro-3~{H}-purine-6,8-dione 
+ CC1=CC(=C(C=C1)C(C)C)O  5-methyl-2-propan-2-ylphenol 
+ C1=NC2=C(N1)C(=S)N=C(N2)N  2-amino-3,7-dihydropurine-6-thione 
+ C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl  5-chloro-~{N}-(4,5-dihydro-1~{H}-imidazol-2-yl)-2,1,3-benzothiadiazol-4-amine 
+ CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C  1-butyl-3-(4-methylphenyl)sulfonylurea 
+ CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O  (1~{R},2~{R})-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexan-1-ol 
+ CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C  (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid 
+ C(=C(Cl)Cl)Cl  1,1,2-trichloroethene 
+ C(=O)(C(F)(F)F)Cl  2,2,2-trifluoroacetyl chloride 
+ CC1(C(=O)N(C(=O)O1)C)C  3,5,5-trimethyl-1,3-oxazolidine-2,4-dione 
+ C1CN(P(=O)(OC1)N(CCCl)CCCl)CCCl  ~{N},~{N},3-tris(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine 
+ CCCC(CCC)C(=O)O  2-propylpentanoic acid 
+ CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC  2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]-2-propan-2-ylpentanenitrile 
+ CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C  (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraen-1-ol 
+ CC1=CC=CC=C1S(=O)(=O)NC(=O)C2=CC(=C(C=C2)CC3=CN(C4=C3C=C(C=C4)NC(=O)OC5CCCC5)C)OC  cyclopentyl ~{N}-[3-[[2-methoxy-4-[(2-methylphenyl)sulfonylcarbamoyl]phenyl]methyl]-1-methylindol-5-yl]carbamate 
+ CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C  ~{N},~{N}-dimethyl-2-[6-methyl-2-(4-methylphenyl)imidazo[1,2-a]pyridin-3-yl]acetamide 
+ C1=CC=C2C(=C1)C(=NO2)CS(=O)(=O)N  1,2-benzoxazol-3-ylmethanesulfonamide 
+ CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl  [6-(5-chloropyridin-2-yl)-5-oxo-7~{H}-pyrrolo[3,4-b]pyrazin-7-yl] 4-methylpiperazine-1-carboxylate 
+ CC=O  acetaldehyde 
+ CC(C(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3)O  (~{E})-4-[4-[2-(methylamino)ethoxy]phenyl]-3,4-diphenylbut-3-en-2-ol 
+ CC(C(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCC[N+](C)(C)[O-])C3=CC=CC=C3)O  2-[4-[(~{E})-3-hydroxy-1,2-diphenylbut-1-enyl]phenoxy]-~{N},~{N}-dimethylethanamine oxide 
+ [Br-]  bromide 
+ C(C(F)(F)F)Cl  2-chloro-1,1,1-trifluoroethane 
+ CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3  4-[(~{E})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol 
+ CC1(N=C(N=C(N1C2=CC=C(C=C2)Cl)N)N)C  1-(4-chlorophenyl)-6,6-dimethyl-1,3,5-triazine-2,4-diamine 
+ CC1(C(=O)NC(=O)O1)C  5,5-dimethyl-1,3-oxazolidine-2,4-dione 
+ C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC(=C(C=C3)O)O  (2~{S})-2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-2,3-dihydrochromen-4-one 
+ CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O  2-[4-[1-hydroxy-4-[4-[hydroxy(diphenyl)methyl]piperidin-1-yl]butyl]phenyl]-2-methylpropanoic acid 
+ C1=CC(=C(C=C1C(=O)CCC(=O)O)F)F  4-(3,4-difluorophenyl)-4-oxobutanoic acid 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)CC4  (4~{R},4~{a}~{R},7~{a}~{R},12~{b}~{S})-9-hydroxy-3-methyl-1,2,4,4~{a},5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one 
+ C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)O  2-benzhydrylsulfinylacetic acid 
+ CCNCC(=O)NC1=C(C=CC=C1C)C  ~{N}-(2,6-dimethylphenyl)-2-(ethylamino)acetamide 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O  (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)OC6C(C(C(C(O6)C(=O)O)O)O)O)OC3C(C=C4)O  (2~{S},3~{S},4~{S},5~{R},6~{S})-6-[[(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-7-hydroxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-9-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid 
+ CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)OC6C(C(C(C(O6)C(=O)O)O)O)O  (2~{S},3~{S},4~{S},5~{R},6~{R})-6-[[(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-hydroxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid 
+ CCC(C(CC(C)NC)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C  [6-(methylamino)-4,4-diphenylheptan-3-yl] acetate 
+ COC(=O)C1C2CCC(N2)CC1OC(=O)C3=CC=CC=C3  methyl (1~{R},2~{R},3~{S},5~{S})-3-benzoyloxy-8-azabicyclo[3.2.1]octane-2-carboxylate 
+ COC1=C2C3=C(CC4C5C3(CCN4)C(O2)C(C=C5)O)C=C1  (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-methoxy-1,2,3,4,4~{a},7,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol 
+ CC(CC1=CC(=CC=C1)C(F)(F)F)N  1-[3-(trifluoromethyl)phenyl]propan-2-amine 
+ CCC(=O)N(C1CCNCC1)C2=CC=CC=C2  ~{N}-phenyl-~{N}-piperidin-4-ylpropanamide 
+ C1CC2(C3CC4=C5C2(CCN3)C(C1=O)OC5=C(C=C4)O)O  (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a},9-dihydroxy-1,2,3,4,5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one 
+ CC1=CC=CC=C1O  2-methylphenol 
+ CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O  (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a},9-dihydroxy-3-methyl-2,4,5,6,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one 
+ CC1=C(C(=C(C=C1)C(C)C)O)O  3-methyl-6-propan-2-ylbenzene-1,2-diol 
+ C1=CC(=CC=C1C(COC(=O)N)COC(=O)N)O  [3-carbamoyloxy-2-(4-hydroxyphenyl)propyl] carbamate 
+ C1=CC(=CC=C1C(F)(F)F)O  4-(trifluoromethyl)phenol 
+ CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C  2-[[(4~{R})-4-[(3~{R},5~{S},7~{R},8~{R},9~{S},10~{S},12~{S},13~{R},14~{S},17~{R})-3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1~{H}-cyclopenta[a]phenanthren-17-yl]pentanoyl]amino]ethanesulfonic acid 
+ C1CNCCC1NC2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F  1-[(4-fluorophenyl)methyl]-~{N}-piperidin-4-ylbenzimidazol-2-amine 
+ C(=O)(C(F)(F)F)O  2,2,2-trifluoroacetic acid 

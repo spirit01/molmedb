@@ -1,0 +1,2962 @@
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282R%29-1-%283-chlorophenyl%29-2-%5B%281-hydroxy-2-methylpropan-2-yl%29amino%5Dpropan-1-one'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282R%29-2-%284-fluorophenyl%29-2-%7B%5B%285-oxo-2%2C5-dihydro-1H-1%2C2%2C4-triazol-3-yl%29methyl%5Damino%7Dacetic+acid'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282R%29-2-%28tert-butylamino%29-1-%283-chloro-5-hydroxyphenyl%29propan-1-one'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282R%29-2-%28tert-butylamino%29-1-%283-chlorophenyl%29-3-hydroxypropan-1-one'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282R%2C3S%29-2-%5B%281R%29-1-%5B3%2C5-bis%28trifluoromethyl%29phenyl%5Dethoxy%5D-3-%284-fluorophenyl%29morpholine'
+DEBUG; Created Compound(10113945)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10113945'
+DEBUG; Created Compound(10113945)
+ERROR; (2R,3S)-2-[(1R)-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine ; (2~{R},3~{S})-2-[(1~{R})-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine; CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(NCCO2)C3=CC=C(C=C3)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282S%29-N-%5B%282S%2C3R%29-4-%5B%283S%2C4aR%2C8aS%29-3-%28tert-butylcarbamoyl%29-6-hydroxy-decahydroisoquinolin-2-yl%5D-3-hydroxy-1-phenylbutan-2-yl%5D-2-%5B%28quinolin-2-yl%29formamido%5Dbutanediamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282S%29-N-%5B%282S%2C3R%29-4-%5B%283S%2C4aS%2C8aS%29-3-%28tert-butylcarbamoyl%29-7-hydroxy-decahydroisoquinolin-2-yl%5D-3-hydroxy-1-phenylbutan-2-yl%5D-2-%5B%28quinolin-2-yl%29formamido%5Dbutanediamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282S%29-N-%5B%282S%2C3R%29-4-%5B%283S%2C4aS%2C8aS%29-3-%5B%281-hydroxy-2-methylpropan-2-yl%29carbamoyl%5D-decahydroisoquinolin-2-yl%5D-3-hydroxy-1-phenylbutan-2-yl%5D-2-%5B%28quinolin-2-yl%29formamido%5Dbutanediamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%282S%2C3R%29-2-%5B%281R%29-1-%5B3%2C5-bis%28trifluoromethyl%29phenyl%5Dethoxy%5D-3-%284-fluorophenyl%29morpholine'
+DEBUG; Created Compound(10113945)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10113945'
+DEBUG; Created Compound(10113945)
+ERROR; (2S,3R)-2-[(1R)-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine ; (2~{R},3~{S})-2-[(1~{R})-1-[3,5-bis(trifluoromethyl)phenyl]ethoxy]-3-(4-fluorophenyl)morpholine; CC(C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F)OC2C(NCCO2)C3=CC=C(C=C3)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%28R%29-Fluoxetine'
+DEBUG; Created Compound(1548970)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1548970'
+DEBUG; Created Compound(1548970)
+ERROR; (R)-Fluoxetine ; (3~{R})-~{N}-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine; CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=%28S%29-Fluoxetine'
+DEBUG; Created Compound(1548968)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1548968'
+DEBUG; Created Compound(1548968)
+ERROR; (S)-Fluoxetine ; (3~{S})-~{N}-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine; CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1%2C3%2C7-Trimethyluric+acid'
+DEBUG; Created Compound(79437)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=79437'
+DEBUG; Created Compound(79437)
+ERROR; 1,3,7-Trimethyluric acid ; 1,3,7-trimethyl-9~{H}-purine-2,6,8-trione; CN1C2=C(NC1=O)N(C(=O)N(C2=O)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1%2C3-dimethyluric+acid'
+DEBUG; Created Compound(70346)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=70346'
+DEBUG; Created Compound(70346)
+ERROR; 1,3-dimethyluric acid ; 1,3-dimethyl-7,9-dihydropurine-2,6,8-trione; CN1C2=C(C(=O)N(C1=O)C)NC(=O)N2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1%2C7-Dimethyluric+acid'
+DEBUG; Created Compound(91611)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=91611'
+DEBUG; Created Compound(91611)
+ERROR; 1,7-Dimethyluric acid ; 1,7-dimethyl-3,9-dihydropurine-2,6,8-trione; CN1C2=C(NC1=O)NC(=O)N(C2=O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1-Cinnamylpiperazine'
+DEBUG; Created Compound(726896)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=726896'
+DEBUG; Created Compound(726896)
+ERROR; 1-Cinnamylpiperazine ; 1-[(~{E})-3-phenylprop-2-enyl]piperazine; C1CN(CCN1)CC=CC2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1-Methyluric+acid'
+DEBUG; Created Compound(69726)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=69726'
+DEBUG; Created Compound(69726)
+ERROR; 1-Methyluric acid ; 1-methyl-7,9-dihydro-3~{H}-purine-2,6,8-trione; CN1C(=O)C2=C(NC(=O)N2)NC1=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1-Methylxanthine'
+DEBUG; Created Compound(80220)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=80220'
+DEBUG; Created Compound(80220)
+ERROR; 1-Methylxanthine ; 1-methyl-3,7-dihydropurine-2,6-dione; CN1C(=O)C2=C(NC1=O)N=CN2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1-Naphtaldehyde'
+DEBUG; Created Compound(6195)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6195'
+DEBUG; Created Compound(6195)
+ERROR; 1-Naphtaldehyde ; naphthalene-1-carbaldehyde; C1=CC=C2C(=C1)C=CC=C2C=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1-Naphthoic+acid'
+DEBUG; Created Compound(6847)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6847'
+DEBUG; Created Compound(6847)
+ERROR; 1-Naphthoic acid ; naphthalene-1-carboxylic acid; C1=CC=C2C(=C1)C=CC=C2C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1-%5B%28%7B3-%5B2-%28dimethylamino%29ethyl%5D-1H-indol-5-yl%7Dmethane%29sulfonyl%5Dpyrrolidin-2-ol'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1-%5B3%2C5-bis%28trifluoromethyl%29phenyl%5Dethanone'
+DEBUG; Created Compound(121616)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=121616'
+DEBUG; Created Compound(121616)
+ERROR; 1-[3,5-bis(trifluoromethyl)phenyl]ethanone ; 1-[3,5-bis(trifluoromethyl)phenyl]ethanone; CC(=O)C1=CC(=CC(=C1)C(F)(F)F)C(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=10%2C11-Dihydroxycarbamazepine'
+DEBUG; Created Compound(83852)
+DEBUG; Created Compound(45039023)
+DEBUG; Created Compound(114725)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=83852'
+DEBUG; Created Compound(83852)
+ERROR; 10,11-Dihydroxycarbamazepine ; 5,6-dihydroxy-5,6-dihydrobenzo[b][1]benzazepine-11-carboxamide; C1=CC=C2C(=C1)C(C(C3=CC=CC=C3N2C(=O)N)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=10%2C11-Epoxycarbamazepine'
+DEBUG; Created Compound(2555)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2555'
+DEBUG; Created Compound(2555)
+ERROR; 10,11-Epoxycarbamazepine ; 3-oxa-11-azatetracyclo[10.4.0.0^{2,4}.0^{5,10}]hexadeca-1(16),5,7,9,12,14-hexaene-11-carboxamide; C1=CC=C2C(=C1)C3C(O3)C4=CC=CC=C4N2C(=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=11-HETE'
+DEBUG; Created Compound(14123410)
+DEBUG; Created Compound(5353268)
+DEBUG; Created Compound(5312982)
+DEBUG; Created Compound(5312981)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=14123410'
+DEBUG; Created Compound(14123410)
+ERROR; 11-HETE ; (5~{Z},8~{Z},12~{E},14~{Z})-11-hydroxyicosa-5,8,12,14-tetraenoic acid; CCCCCC=CC=CC(CC=CCC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=12-HETE'
+DEBUG; Created Compound(5312983)
+DEBUG; Created Compound(13786989)
+DEBUG; Created Compound(5353272)
+DEBUG; Created Compound(1413)
+DEBUG; Created Compound(5283155)
+DEBUG; Created Compound(5312984)
+DEBUG; Created Compound(6442490)
+DEBUG; Created Compound(131770431)
+DEBUG; Created Compound(5283156)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5312983'
+DEBUG; Created Compound(5312983)
+ERROR; 12-HETE ; (5~{E},8~{Z},10~{Z},14~{Z})-12-hydroxyicosa-5,8,10,14-tetraenoic acid; CCCCCC=CCC(C=CC=CCC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=12-Hydroxydodecanoic+Acid'
+DEBUG; Created Compound(79034)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=79034'
+DEBUG; Created Compound(79034)
+ERROR; 12-Hydroxydodecanoic Acid ; 12-hydroxydodecanoic acid; C(CCCCCC(=O)O)CCCCCO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=15-HETE'
+DEBUG; Created Compound(9966861)
+DEBUG; Created Compound(5280724)
+DEBUG; Created Compound(5353283)
+DEBUG; Created Compound(5312986)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9966861'
+DEBUG; Created Compound(9966861)
+ERROR; 15-HETE ; (5~{Z},8~{Z},11~{Z},13~{E})-15-hydroxyicosa-5,8,11,13-tetraenoic acid; CCCCCC(C=CC=CCC=CCC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=15alpha-hydroxytestosterone'
+DEBUG; Created Compound(247021)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=247021'
+DEBUG; Created Compound(247021)
+ERROR; 15alpha-hydroxytestosterone ; (8~{R},9~{S},10~{R},13~{S},14~{S},15~{S},17~{S})-15,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC(=O)C=C1CCC3C2CCC4(C3C(CC4O)O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=15beta-hydroxytestosterone'
+DEBUG; Created Compound(53255472)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=53255472'
+DEBUG; Created Compound(53255472)
+ERROR; 15beta-hydroxytestosterone ; (8~{R},9~{S},10~{R},13~{S},14~{S},15~{R},17~{S})-15,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC(=O)C=C1CCC3C2CCC4(C3C(CC4O)O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=16-HETE'
+DEBUG; Created Compound(6442739)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6442739'
+DEBUG; Created Compound(6442739)
+ERROR; 16-HETE ; (5~{Z},8~{Z},11~{Z},14~{Z})-16-hydroxyicosa-5,8,11,14-tetraenoic acid; CCCCC(C=CCC=CCC=CCC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=16-alpha-hydroxyprednisolone'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=16alpha-hydroxytestosterone'
+DEBUG; Created Compound(65545)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=65545'
+DEBUG; Created Compound(65545)
+ERROR; 16alpha-hydroxytestosterone ; (8~{R},9~{S},10~{R},13~{S},14~{S},16~{R},17~{R})-16,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC(=O)C=C1CCC3C2CCC4(C3CC(C4O)O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=16beta-hydroxytestosterone'
+DEBUG; Created Compound(15708880)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=15708880'
+DEBUG; Created Compound(15708880)
+ERROR; 16beta-hydroxytestosterone ; (8~{R},9~{S},10~{R},13~{S},14~{S},16~{S},17~{R})-16,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC(=O)C=C1CCC3C2CCC4(C3CC(C4O)O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=17-HETE'
+DEBUG; Created Compound(6442740)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6442740'
+DEBUG; Created Compound(6442740)
+ERROR; 17-HETE ; (5~{Z},8~{Z},11~{Z},14~{Z})-17-hydroxyicosa-5,8,11,14-tetraenoic acid; CCCC(CC=CCC=CCC=CCC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=18-HETE'
+DEBUG; Created Compound(6442778)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6442778'
+DEBUG; Created Compound(6442778)
+ERROR; 18-HETE ; (5~{Z},8~{Z},11~{Z},14~{Z})-18-hydroxyicosa-5,8,11,14-tetraenoic acid; CCC(CCC=CCC=CCC=CCC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=18-Hydroxyretinoic+acid'
+DEBUG; Created Compound(6506224)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6506224'
+DEBUG; Created Compound(6506224)
+ERROR; 18-Hydroxyretinoic acid ; (2~{E},4~{E},6~{E},8~{E})-9-[2-(hydroxymethyl)-6,6-dimethylcyclohexen-1-yl]-3,7-dimethylnona-2,4,6,8-tetraenoic acid; CC(=CC=CC(=CC(=O)O)C)C=CC1=C(CCCC1(C)C)CO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=19-HETE'
+DEBUG; Created Compound(20839325)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=20839325'
+DEBUG; Created Compound(20839325)
+ERROR; 19-HETE ; (5~{Z},8~{Z},11~{Z},14~{Z})-19-hydroxyicosa-5,8,11,14-tetraenoic acid; CC(CCCC=CCC=CCC=CCC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=1H-Imidazol-2-amine%2C+1-%28%286-chloro-3-pyridinyl%29methyl%29-4%2C5-dihydro-N-nitroso-'
+DEBUG; Created Compound(183033)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=183033'
+DEBUG; Created Compound(183033)
+ERROR; 1H-Imidazol-2-amine, 1-((6-chloro-3-pyridinyl)methyl)-4,5-dihydro-N-nitroso- ; ~{N}-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitrous amide; C1CN(C(=N1)NN=O)CC2=CN=C(C=C2)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2%27-Hydroxynicotine'
+DEBUG; Created Compound(432)
+DEBUG; Created Compound(23615292)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=432'
+DEBUG; Created Compound(432)
+ERROR; 2'-Hydroxynicotine ; 1-methyl-2-pyridin-3-ylpyrrolidin-2-ol; CN1CCCC1(C2=CN=CC=C2)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2%2C3%2C17BETA-TRIHYDROXY-1%2C3%2C5%2810%29-ESTRATRIENE'
+DEBUG; Created Compound(247304)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=247304'
+DEBUG; Created Compound(247304)
+ERROR; 2,3,17BETA-TRIHYDROXY-1,3,5(10)-ESTRATRIENE ; (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-2,3,17-triol; CC12CCC3C(C1CCC2O)CCC4=CC(=C(C=C34)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2%2C3-Dihydroxycarbamazepine'
+DEBUG; Created Compound(24892806)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=24892806'
+DEBUG; Created Compound(24892806)
+ERROR; 2,3-Dihydroxycarbamazepine ; 2,3-dihydroxybenzo[b][1]benzazepine-11-carboxamide; C1=CC=C2C(=C1)C=CC3=CC(=C(C=C3N2C(=O)N)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2%2C3-dichlorophenylpiperazine'
+DEBUG; Created Compound(851833)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=851833'
+DEBUG; Created Compound(851833)
+ERROR; 2,3-dichlorophenylpiperazine ; 1-(2,3-dichlorophenyl)piperazine; C1CN(CCN1)C2=C(C(=CC=C2)Cl)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%283%2C4-dimethoxyphenyl%29acetaldehyde'
+DEBUG; Created Compound(79781)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=79781'
+DEBUG; Created Compound(79781)
+ERROR; 2-(3,4-dimethoxyphenyl)acetaldehyde ; 2-(3,4-dimethoxyphenyl)acetaldehyde; COC1=C(C=C(C=C1)CC=O)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%284-%283-Ethynylanilino%29-6-%282-methoxyethoxy%29quinazolin-7-yl%29oxyethanol'
+DEBUG; Created Compound(16045730)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=16045730'
+DEBUG; Created Compound(16045730)
+ERROR; 2-(4-(3-Ethynylanilino)-6-(2-methoxyethoxy)quinazolin-7-yl)oxyethanol ; 2-[4-(3-ethynylanilino)-6-(2-methoxyethoxy)quinazolin-7-yl]oxyethanol; COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%284-ethyl-5-oxo-1%2C2%2C3%2C4-tetrazol-1-yl%29acetaldehyde'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%284-hydroxyphenyl%29acetaldehyde'
+DEBUG; Created Compound(440113)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=440113'
+DEBUG; Created Compound(440113)
+ERROR; 2-(4-hydroxyphenyl)acetaldehyde ; 2-(4-hydroxyphenyl)acetaldehyde; C1=CC(=CC=C1CC=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%28difluoromethoxy%29-2%2C2-difluoroacetyl+fluoride'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-Dechloroethylifosfamide'
+DEBUG; Created Compound(119105)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=119105'
+DEBUG; Created Compound(119105)
+ERROR; 2-Dechloroethylifosfamide ; 3-(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine; C1CN(P(=O)(OC1)N)CCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-Hydroxyfelbamate'
+DEBUG; Created Compound(10400039)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10400039'
+DEBUG; Created Compound(10400039)
+ERROR; 2-Hydroxyfelbamate ; (3-carbamoyloxy-2-hydroxy-2-phenylpropyl) carbamate; C1=CC=C(C=C1)C(COC(=O)N)(COC(=O)N)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-Oxoquazepam'
+DEBUG; Created Compound(93250)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=93250'
+DEBUG; Created Compound(93250)
+ERROR; 2-Oxoquazepam ; 7-chloro-5-(2-fluorophenyl)-1-(2,2,2-trifluoroethyl)-3~{H}-1,4-benzodiazepin-2-one; C1C(=O)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-Phenyl-1%2C3-propanediol+monocarbamate'
+DEBUG; Created Compound(213060)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=213060'
+DEBUG; Created Compound(213060)
+ERROR; 2-Phenyl-1,3-propanediol monocarbamate ; (3-hydroxy-2-phenylpropyl) carbamate; C1=CC=C(C=C1)C(CO)COC(=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%5B%285-chloro-2%2C1%2C3-benzothiadiazol-4-yl%29amino%5D-4%2C5-dihydro-1H-imidazol-4-ol'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-chloro-1%2C1-difluoroethene'
+DEBUG; Created Compound(9664)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9664'
+DEBUG; Created Compound(9664)
+ERROR; 2-chloro-1,1-difluoroethene ; 2-chloro-1,1-difluoroethene; C(=C(F)F)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-chloro-4-%28piperazin-1-yl%29phenol'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-cyclohexyl-2-phenylglycolic+acid'
+DEBUG; Created Compound(97700)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=97700'
+DEBUG; Created Compound(97700)
+ERROR; 2-cyclohexyl-2-phenylglycolic acid ; 2-cyclohexyl-2-hydroxy-2-phenylacetic acid; C1CCC(CC1)C(C2=CC=CC=C2)(C(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-hydroxy-N-%5B%28piperidin-2-yl%29methyl%5D-5-%282%2C2%2C2-trifluoroethoxy%29benzamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-hydroxycarbamazepine'
+DEBUG; Created Compound(129274)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=129274'
+DEBUG; Created Compound(129274)
+ERROR; 2-hydroxycarbamazepine ; 3-hydroxybenzo[b][1]benzazepine-11-carboxamide; C1=CC=C2C(=C1)C=CC3=C(N2C(=O)N)C=CC(=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-hydroxyestradiol'
+DEBUG; Created Compound(247304)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=247304'
+DEBUG; Created Compound(247304)
+ERROR; 2-hydroxyestradiol ; (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-2,3,17-triol; CC12CCC3C(C1CCC2O)CCC4=CC(=C(C=C34)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-hydroxyestrone'
+DEBUG; Created Compound(440623)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=440623'
+DEBUG; Created Compound(440623)
+ERROR; 2-hydroxyestrone ; (8~{R},9~{S},13~{S},14~{S})-2,3-dihydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-17-one; CC12CCC3C(C1CCC2=O)CCC4=CC(=C(C=C34)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-hydroxyiminostilbene'
+DEBUG; Created Compound(13103864)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=13103864'
+DEBUG; Created Compound(13103864)
+ERROR; 2-hydroxyiminostilbene ; 11~{H}-benzo[b][1]benzazepin-3-ol; C1=CC=C2C(=C1)C=CC3=C(N2)C=CC(=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-sulfamoylacetylphenol'
+DEBUG; Created Compound(194588)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=194588'
+DEBUG; Created Compound(194588)
+ERROR; 2-sulfamoylacetylphenol ; 2-(2-hydroxyphenyl)-2-oxoethanesulfonamide; C1=CC=C(C(=C1)C(=O)CS(=O)(=O)N)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%7B5-%5B%28pyrrolidine-1-sulfonyl%29methyl%5D-1H-indol-3-yl%7Dacetic+acid'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%7B5-%5B%28pyrrolidine-1-sulfonyl%29methyl%5D-1H-indol-3-yl%7Dethan-1-ol'
+DEBUG; Created Compound(59581888)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=59581888'
+DEBUG; Created Compound(59581888)
+ERROR; 2-{5-[(pyrrolidine-1-sulfonyl)methyl]-1H-indol-3-yl}ethan-1-ol ; 2-[5-(pyrrolidin-1-ylsulfonylmethyl)-1~{H}-indol-3-yl]ethanol; C1CCN(C1)S(=O)(=O)CC2=CC3=C(C=C2)NC=C3CCO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%7B%5B4-%281-hydroxypropan-2-yl%29cyclohexyl%5Dformamido%7D-3-phenylpropanoic+acid'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2-%7B%5B4-%282-hydroxypropan-2-yl%29cyclohexyl%5Dformamido%7D-3-phenylpropanoic+acid'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=20-HETE'
+DEBUG; Created Compound(5283157)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5283157'
+DEBUG; Created Compound(5283157)
+ERROR; 20-HETE ; (5~{Z},8~{Z},11~{Z},14~{Z})-20-hydroxyicosa-5,8,11,14-tetraenoic acid; C(CCC=CCC=CCC=CCC=CCCCC(=O)O)CCO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=21-Hydroxyprogesterone'
+DEBUG; Created Compound(6166)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6166'
+DEBUG; Created Compound(6166)
+ERROR; 21-Hydroxyprogesterone ; (8~{S},9~{S},10~{R},13~{S},14~{S},17~{S})-17-(2-hydroxyacetyl)-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC3C(C1CCC2C(=O)CO)CCC4=CC(=O)CCC34C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2alpha-hydroxytestosterone'
+DEBUG; Created Compound(14311666)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=14311666'
+DEBUG; Created Compound(14311666)
+ERROR; 2alpha-hydroxytestosterone ; (2~{R},8~{R},9~{S},10~{R},13~{S},14~{S},17~{S})-2,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC3C(C1CCC2O)CCC4=CC(=O)C(CC34C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2beta-hydroxytestosterone'
+DEBUG; Created Compound(14311667)
+DEBUG; Created Compound(53481514)
+DEBUG; Created Compound(134688369)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=14311667'
+DEBUG; Created Compound(14311667)
+ERROR; 2beta-hydroxytestosterone ; (2~{S},8~{R},9~{S},10~{R},13~{S},14~{S},17~{S})-2,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC3C(C1CCC2O)CCC4=CC(=O)C(CC34C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=2ethylidene-1%2C5-dimethyl-3%2C3-diphenylpyrolidine'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3%27-Hydroxydiclofenac'
+DEBUG; Created Compound(112230)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=112230'
+DEBUG; Created Compound(112230)
+ERROR; 3'-Hydroxydiclofenac ; 2-[2-(2,6-dichloro-3-hydroxyanilino)phenyl]acetic acid; C1=CC=C(C(=C1)CC(=O)O)NC2=C(C=CC(=C2Cl)O)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3%2C4-Dihydroxy-tamoxifen'
+DEBUG; Created Compound(10386463)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10386463'
+DEBUG; Created Compound(10386463)
+ERROR; 3,4-Dihydroxy-tamoxifen ; 4-[(~{E})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]benzene-1,2-diol; CCC(=C(C1=CC=C(C=C1)OCCN(C)C)C2=CC(=C(C=C2)O)O)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-%284-fluorophenoxy%29propanal'
+DEBUG; Created Compound(3020239)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3020239'
+DEBUG; Created Compound(3020239)
+ERROR; 3-(4-fluorophenoxy)propanal ; 3-(4-fluorophenoxy)propanal; C1=CC(=CC=C1OCCC=O)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-%28methylamino%29-1-phenylpropan-1-one'
+DEBUG; Created Compound(407877)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=407877'
+DEBUG; Created Compound(407877)
+ERROR; 3-(methylamino)-1-phenylpropan-1-one ; 3-(methylamino)-1-phenylpropan-1-one; CNCCC(=O)C1=CC=CC=C1 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Carbamoyl-2-phenylpropionaldehyde'
+DEBUG; Created Compound(21350391)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=21350391'
+DEBUG; Created Compound(21350391)
+ERROR; 3-Carbamoyl-2-phenylpropionaldehyde ; (3-oxo-2-phenylpropyl) carbamate; C1=CC=C(C=C1)C(COC(=O)N)C=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Carbamoyl-2-phenylpropionic+acid'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Dechloroethylifosfamide'
+DEBUG; Created Compound(114861)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=114861'
+DEBUG; Created Compound(114861)
+ERROR; 3-Dechloroethylifosfamide ; ~{N}-(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine; C1CNP(=O)(OC1)NCCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Hydroxyacetaminophen'
+DEBUG; Created Compound(161950)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=161950'
+DEBUG; Created Compound(161950)
+ERROR; 3-Hydroxyacetaminophen ; ~{N}-(3,4-dihydroxyphenyl)acetamide; CC(=O)NC1=CC(=C(C=C1)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Hydroxycoumarin'
+DEBUG; Created Compound(13650)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=13650'
+DEBUG; Created Compound(13650)
+ERROR; 3-Hydroxycoumarin ; 3-hydroxychromen-2-one; C1=CC=C2C(=C1)C=C(C(=O)O2)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Hydroxymorphinan'
+DEBUG; Created Compound(5463854)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5463854'
+DEBUG; Created Compound(5463854)
+ERROR; 3-Hydroxymorphinan ; (1~{R},9~{R},10~{R})-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-trien-4-ol; C1CCC23CCNC(C2C1)CC4=C3C=C(C=C4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Hydroxyquinidine'
+DEBUG; Created Compound(13217486)
+DEBUG; Created Compound(45039512)
+DEBUG; Created Compound(441264)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=13217486'
+DEBUG; Created Compound(13217486)
+ERROR; 3-Hydroxyquinidine ; (3~{S},4~{S},6~{R})-3-ethenyl-6-[(~{S})-hydroxy-(6-methoxyquinolin-4-yl)methyl]-1-azabicyclo[2.2.2]octan-3-ol; COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4(C=C)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Hydroxytamoxifen'
+DEBUG; Created Compound(3033767)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3033767'
+DEBUG; Created Compound(3033767)
+ERROR; 3-Hydroxytamoxifen ; 3-[(~{E})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol; CCC(=C(C1=CC=C(C=C1)OCCN(C)C)C2=CC(=CC=C2)O)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Hydroxyvalproic+acid'
+DEBUG; Created Compound(134459)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=134459'
+DEBUG; Created Compound(134459)
+ERROR; 3-Hydroxyvalproic acid ; 3-hydroxy-2-propylpentanoic acid; CCCC(C(CC)O)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-Methoxymorphinan'
+DEBUG; Created Compound(5484286)
+DEBUG; Created Compound(1671)
+DEBUG; Created Compound(6603912)
+DEBUG; Created Compound(6916325)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5484286'
+DEBUG; Created Compound(5484286)
+ERROR; 3-Methoxymorphinan ; (1~{R},9~{R},10~{R})-4-methoxy-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-triene; COC1=CC2=C(CC3C4C2(CCCC4)CCN3)C=C1 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-%5B3-ethyl-5-oxo-4-%282-phenoxyethyl%29-4%2C5-dihydro-1H-1%2C2%2C4-triazol-1-yl%5Dpropanal'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-hydroxycarbamazepine'
+DEBUG; Created Compound(135290)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=135290'
+DEBUG; Created Compound(135290)
+ERROR; 3-hydroxycarbamazepine ; 2-hydroxybenzo[b][1]benzazepine-11-carboxamide; C1=CC=C2C(=C1)C=CC3=C(N2C(=O)N)C=C(C=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-hydroxycyclopentyl+N-%5B3-%28%7B2-methoxy-4-%5B%282-methylbenzenesulfonyl%29carbamoyl%5Dphenyl%7Dmethyl%29-1-methylindol-5-yl%5Dcarbamate'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-hydroxylidocaine'
+DEBUG; Created Compound(161824)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=161824'
+DEBUG; Created Compound(161824)
+ERROR; 3-hydroxylidocaine ; 2-(diethylamino)-~{N}-(3-hydroxy-2,6-dimethylphenyl)acetamide; CCN(CC)CC(=O)NC1=C(C=CC(=C1C)O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-hydroxyquinine'
+DEBUG; Created Compound(157225)
+DEBUG; Created Compound(441264)
+DEBUG; Created Compound(13217486)
+DEBUG; Created Compound(101599114)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=157225'
+DEBUG; Created Compound(157225)
+ERROR; 3-hydroxyquinine ; (3~{S},4~{S},6~{S})-3-ethenyl-6-[(~{R})-hydroxy-(6-methoxyquinolin-4-yl)methyl]-1-azabicyclo[2.2.2]octan-3-ol; COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4(C=C)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=3-methylxanthine'
+DEBUG; Created Compound(70639)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=70639'
+DEBUG; Created Compound(70639)
+ERROR; 3-methylxanthine ; 3-methyl-7~{H}-purine-2,6-dione; CN1C2=C(C(=O)NC1=O)NC=N2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4%27-Hydroxytamoxifen'
+DEBUG; Created Compound(5284643)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5284643'
+DEBUG; Created Compound(5284643)
+ERROR; 4'-Hydroxytamoxifen ; 4-[(~{Z})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-1-phenylbut-1-en-2-yl]phenol; CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=C(C=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4%2C6-dihydroxy-N%2C1-dimethyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4%2C7-dihydroxy-N%2C1-dimethyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4%2C8-dihydroxy-N%2C1-dimethyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-%284-chlorophenyl%29-4-hydroxypiperidine'
+DEBUG; Created Compound(38282)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=38282'
+DEBUG; Created Compound(38282)
+ERROR; 4-(4-chlorophenyl)-4-hydroxypiperidine ; 4-(4-chlorophenyl)piperidin-4-ol; C1CNCCC1(C2=CC=C(C=C2)Cl)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-%284-tert-butylphenyl%29-4-oxobutanal'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-%28Dimethylamino%29-5-methyl-2-phenyl-1%2C2-dihydro-3H-pyrazol-3-one'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-%28diethylamino%29but-2-yn-1-ol'
+DEBUG; Created Compound(82735)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=82735'
+DEBUG; Created Compound(82735)
+ERROR; 4-(diethylamino)but-2-yn-1-ol ; 4-(diethylamino)but-2-yn-1-ol; CCN(CC)CC#CCO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Chlorophenylbiguanide'
+DEBUG; Created Compound(19933)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=19933'
+DEBUG; Created Compound(19933)
+ERROR; 4-Chlorophenylbiguanide ; 2-(4-chlorophenyl)-1-(diaminomethylidene)guanidine; C1=CC(=CC=C1N=C(N)N=C(N)N)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxy+tolbutamide'
+DEBUG; Created Compound(3656)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3656'
+DEBUG; Created Compound(3656)
+ERROR; 4-Hydroxy tolbutamide ; 1-butyl-3-[4-(hydroxymethyl)phenyl]sulfonylurea; CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)CO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxy-5-phenyltetrahydro-1%2C3-oxazin-2-one'
+DEBUG; Created Compound(21350392)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=21350392'
+DEBUG; Created Compound(21350392)
+ERROR; 4-Hydroxy-5-phenyltetrahydro-1,3-oxazin-2-one ; 4-hydroxy-5-phenyl-1,3-oxazinan-2-one; C1C(C(NC(=O)O1)O)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxyantipyrine'
+DEBUG; Created Compound(98889)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=98889'
+DEBUG; Created Compound(98889)
+ERROR; 4-Hydroxyantipyrine ; 4-hydroxy-1,5-dimethyl-2-phenylpyrazol-3-one; CC1=C(C(=O)N(N1C)C2=CC=CC=C2)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxycyclophosphamide'
+DEBUG; Created Compound(99735)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=99735'
+DEBUG; Created Compound(99735)
+ERROR; 4-Hydroxycyclophosphamide ; 2-[bis(2-chloroethyl)amino]-2-oxo-1,3,2$l^{5}-oxazaphosphinan-4-ol; C1COP(=O)(NC1O)N(CCCl)CCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxydebrisoquine'
+DEBUG; Created Compound(107669)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=107669'
+DEBUG; Created Compound(107669)
+ERROR; 4-Hydroxydebrisoquine ; 4-hydroxy-3,4-dihydro-1~{H}-isoquinoline-2-carboximidamide; C1C(C2=CC=CC=C2CN1C(=N)N)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxydiclofenac'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxyestradiol'
+DEBUG; Created Compound(5282360)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5282360'
+DEBUG; Created Compound(5282360)
+ERROR; 4-Hydroxyestradiol ; (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,4,17-triol; CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxyifosfamide'
+DEBUG; Created Compound(308171)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=308171'
+DEBUG; Created Compound(308171)
+ERROR; 4-Hydroxyifosfamide ; 3-(2-chloroethyl)-2-(2-chloroethylamino)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-4-ol; C1COP(=O)(N(C1O)CCCl)NCCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxyretinoic+acid'
+DEBUG; Created Compound(6438629)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6438629'
+DEBUG; Created Compound(6438629)
+ERROR; 4-Hydroxyretinoic acid ; (2~{E},4~{E},6~{E},8~{E})-9-(3-hydroxy-2,6,6-trimethylcyclohexen-1-yl)-3,7-dimethylnona-2,4,6,8-tetraenoic acid; CC1=C(C(CCC1O)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxytamoxifen'
+DEBUG; Created Compound(449459)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=449459'
+DEBUG; Created Compound(449459)
+ERROR; 4-Hydroxytamoxifen ; 4-[(~{Z})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol; CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Hydroxyvalproic+acid'
+DEBUG; Created Compound(134467)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=134467'
+DEBUG; Created Compound(134467)
+ERROR; 4-Hydroxyvalproic acid ; 4-hydroxy-2-propylpentanoic acid; CCCC(CC(C)O)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Ketocyclophosphamide'
+DEBUG; Created Compound(33676)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=33676'
+DEBUG; Created Compound(33676)
+ERROR; 4-Ketocyclophosphamide ; 2-[bis(2-chloroethyl)amino]-2-oxo-1,3,2$l^{5}-oxazaphosphinan-4-one; C1COP(=O)(NC1=O)N(CCCl)CCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-Oxoretinoic+acid'
+DEBUG; Created Compound(6437063)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6437063'
+DEBUG; Created Compound(6437063)
+ERROR; 4-Oxoretinoic acid ; (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethyl-3-oxocyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid; CC1=C(C(CCC1=O)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-%5B%282-oxo-3%2C4-+dihydro-1H-quinolin-7-yl%29oxy%5Dbutanal'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-aminophenol'
+DEBUG; Created Compound(403)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=403'
+DEBUG; Created Compound(403)
+ERROR; 4-aminophenol ; 4-aminophenol; C1=CC(=CC=C1N)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-hydroxy-1-methyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+DEBUG; Created Compound(54676449)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=54676449'
+DEBUG; Created Compound(54676449)
+ERROR; 4-hydroxy-1-methyl-2-oxo-N-phenyl-1,2-dihydroquinoline-3-carboxamide ; 4-hydroxy-1-methyl-2-oxo-~{N}-phenylquinoline-3-carboxamide; CN1C2=CC=CC=C2C(=C(C1=O)C(=O)NC3=CC=CC=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-hydroxy-4-%286-methoxy-2-naphthyl%29-2-butanone'
+DEBUG; Created Compound(9816279)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9816279'
+DEBUG; Created Compound(9816279)
+ERROR; 4-hydroxy-4-(6-methoxy-2-naphthyl)-2-butanone ; 4-hydroxy-4-(6-methoxynaphthalen-2-yl)butan-2-one; CC(=O)CC(C1=CC2=C(C=C1)C=C(C=C2)OC)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-hydroxy-N-%284-hydroxyphenyl%29-N%2C1-dimethyl-2-oxo-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-hydroxy-N-methyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-hydroxyamphetamine'
+DEBUG; Created Compound(3651)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3651'
+DEBUG; Created Compound(3651)
+ERROR; 4-hydroxyamphetamine ; 4-(2-aminopropyl)phenol; CC(CC1=CC=C(C=C1)O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-hydroxyestrone'
+DEBUG; Created Compound(9971251)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9971251'
+DEBUG; Created Compound(9971251)
+ERROR; 4-hydroxyestrone ; (8~{R},9~{S},13~{S},14~{S})-3,4-dihydroxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-17-one; CC12CCC3C(C1CCC2=O)CCC4=C3C=CC(=C4O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=4-hydroxytamoxifen+sulfate'
+DEBUG; Created Compound(131770034)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=131770034'
+DEBUG; Created Compound(131770034)
+ERROR; 4-hydroxytamoxifen sulfate ; [4-[(~{Z})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenyl] hydrogen sulfate; CCC(=C(C1=CC=C(C=C1)OCCN(C)C)C2=CC=C(C=C2)OS(=O)(=O)O)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5%2C6-Epoxyretinoic+acid'
+DEBUG; Created Compound(5363137)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5363137'
+DEBUG; Created Compound(5363137)
+ERROR; 5,6-Epoxyretinoic acid ; (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,2,6-trimethyl-7-oxabicyclo[4.1.0]heptan-1-yl)nona-2,4,6,8-tetraenoic acid; CC(=CC=CC(=CC(=O)O)C)C=CC12C(CCCC1(O2)C)(C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-%28%7B%5B%281R%29-1-%284-fluorophenyl%29-2-hydroxyethyl%5Damino%7Dmethyl%29-2%2C3-dihydro-1H-1%2C2%2C4-triazol-3-one'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-Acetylamino-6-formylamino-3-methyluracil'
+DEBUG; Created Compound(108214)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=108214'
+DEBUG; Created Compound(108214)
+ERROR; 5-Acetylamino-6-formylamino-3-methyluracil ; ~{N}-(6-formamido-3-methyl-2,4-dioxo-1~{H}-pyrimidin-5-yl)acetamide; CC(=O)NC1=C(NC(=O)N(C1=O)C)NC=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-Chloro-1%2C3-dihydro-1-%284-piperidinyl%29-2H-benzimidazol-2-one'
+DEBUG; Created Compound(104607)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=104607'
+DEBUG; Created Compound(104607)
+ERROR; 5-Chloro-1,3-dihydro-1-(4-piperidinyl)-2H-benzimidazol-2-one ; 6-chloro-3-piperidin-4-yl-1~{H}-benzimidazol-2-one; C1CNCCC1N2C3=C(C=C(C=C3)Cl)NC2=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-Exo-Hydroxycamphor'
+DEBUG; Created Compound(447414)
+DEBUG; Created Compound(440017)
+DEBUG; Created Compound(9543191)
+DEBUG; Created Compound(20057218)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=447414'
+DEBUG; Created Compound(447414)
+ERROR; 5-Exo-Hydroxycamphor ; (1~{R},4~{R},5~{R})-5-hydroxy-1,7,7-trimethylbicyclo[2.2.1]heptan-2-one; CC1(C2CC(=O)C1(CC2O)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-HETE'
+DEBUG; Created Compound(5280733)
+DEBUG; Created Compound(9862886)
+DEBUG; Created Compound(1771)
+DEBUG; Created Compound(5353348)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5280733'
+DEBUG; Created Compound(5280733)
+ERROR; 5-HETE ; (5~{S},6~{E},8~{Z},11~{Z},14~{Z})-5-hydroxyicosa-6,8,11,14-tetraenoic acid; CCCCCC=CCC=CCC=CC=CC(CCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-Hydroxydiclofenac'
+DEBUG; Created Compound(3052566)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3052566'
+DEBUG; Created Compound(3052566)
+ERROR; 5-Hydroxydiclofenac ; 2-[2-(2,6-dichloroanilino)-5-hydroxyphenyl]acetic acid; C1=CC(=C(C(=C1)Cl)NC2=C(C=C(C=C2)O)CC(=O)O)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-Hydroxyvalproic+acid'
+DEBUG; Created Compound(135244)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=135244'
+DEBUG; Created Compound(135244)
+ERROR; 5-Hydroxyvalproic acid ; 5-hydroxy-2-propylpentanoic acid; CCCC(CCCO)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-Phenyl-1%2C3-oxazinane-2%2C4-dione'
+DEBUG; Created Compound(21350393)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=21350393'
+DEBUG; Created Compound(21350393)
+ERROR; 5-Phenyl-1,3-oxazinane-2,4-dione ; 5-phenyl-1,3-oxazinane-2,4-dione; C1C(C(=O)NC(=O)O1)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-aminosalicylic+acid'
+DEBUG; Created Compound(4075)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4075'
+DEBUG; Created Compound(4075)
+ERROR; 5-aminosalicylic acid ; 5-amino-2-hydroxybenzoic acid; C1=CC(=C(C=C1N)C(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-4-%282-imidazolin-4-on-2-ylamino%29-2%2C1%2C3-benzothiadiazole'
+DEBUG; Created Compound(5487)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5487'
+DEBUG; Created Compound(5487)
+ERROR; 5-chloro-4-(2-imidazolin-4-on-2-ylamino)-2,1,3-benzothiadiazole ; 5-chloro-~{N}-(4,5-dihydro-1~{H}-imidazol-2-yl)-2,1,3-benzothiadiazol-4-amine; C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-4-%28guanidino%29-2%2C1%2C3-benzothiadiazole'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-4-hydroxy-1-methyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-N-ethyl-4%2C6-dihydroxy-1-methyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-N-ethyl-4%2C7-dihydroxy-1-methyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-N-ethyl-4%2C8-dihydroxy-1-methyl-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-N-ethyl-4-hydroxy-2-oxo-N-phenyl-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-chloro-N-ethyl-4-hydroxy-N-%284-hydroxyphenyl%29-1-methyl-2-oxo-1%2C2-dihydroquinoline-3-carboxamide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-ethyl-5-methyl-2%2C4-oxazolidinedione'
+DEBUG; Created Compound(232592)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=232592'
+DEBUG; Created Compound(232592)
+ERROR; 5-ethyl-5-methyl-2,4-oxazolidinedione ; 5-ethyl-5-methyl-1,3-oxazolidine-2,4-dione; CCC1(C(=O)NC(=O)O1)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-fluorouracil'
+DEBUG; Created Compound(3385)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3385'
+DEBUG; Created Compound(3385)
+ERROR; 5-fluorouracil ; 5-fluoro-1~{H}-pyrimidine-2,4-dione; C1=C(C(=O)NC(=O)N1)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-glutamyl-taurine'
+DEBUG; Created Compound(68759)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=68759'
+DEBUG; Created Compound(68759)
+ERROR; 5-glutamyl-taurine ; (2~{S})-2-amino-5-oxo-5-(2-sulfoethylamino)pentanoic acid; C(CC(=O)NCCS(=O)(=O)O)C(C(=O)O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-hydroxypyrazinamide'
+DEBUG; Created Compound(151823)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=151823'
+DEBUG; Created Compound(151823)
+ERROR; 5-hydroxypyrazinamide ; 6-oxo-1~{H}-pyrazine-3-carboxamide; C1=C(N=CC(=O)N1)C(=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-oxo-1%2C4-dihydro-1%2C2%2C4-triazole-3-carbaldehyde'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=5-%7B%5B%282S%2C3S%29-3-%284-fluorophenyl%29-2-hydroxymorpholin-4-yl%5Dmethyl%7D-2%2C4-dihydro-1%2C2%2C4-triazol-3-one'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-Hydroxymelatonin'
+DEBUG; Created Compound(1864)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1864'
+DEBUG; Created Compound(1864)
+ERROR; 6-Hydroxymelatonin ; ~{N}-[2-(6-hydroxy-5-methoxy-1~{H}-indol-3-yl)ethyl]acetamide; CC(=O)NCCC1=CNC2=CC(=C(C=C21)OC)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-Mercaptopurine'
+DEBUG; Created Compound(667490)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=667490'
+DEBUG; Created Compound(667490)
+ERROR; 6-Mercaptopurine ; 3,7-dihydropurine-6-thione; C1=NC2=C(N1)C(=S)N=CN2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-Mercaptopurine+riboside'
+DEBUG; Created Compound(676166)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=676166'
+DEBUG; Created Compound(676166)
+ERROR; 6-Mercaptopurine riboside ; 9-[(2~{R},3~{R},4~{S},5~{R})-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]-3~{H}-purine-6-thione; C1=NC(=S)C2=C(N1)N(C=N2)C3C(C(C(O3)CO)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-Methylmercaptopurine-riboside'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-Monoacetylmorphine'
+DEBUG; Created Compound(520352)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=520352'
+DEBUG; Created Compound(520352)
+ERROR; 6-Monoacetylmorphine ; (9-hydroxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl) acetate; CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)O)CCN3C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-Thioinosine+5%27-monophosphate'
+DEBUG; Created Compound(3034391)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3034391'
+DEBUG; Created Compound(3034391)
+ERROR; 6-Thioinosine 5'-monophosphate ; [(2~{R},3~{S},4~{R},5~{R})-3,4-dihydroxy-5-(6-sulfanylidene-3~{H}-purin-9-yl)oxolan-2-yl]methyl dihydrogen phosphate; C1=NC(=S)C2=C(N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-beta-hydrocortisol'
+DEBUG; Created Compound(10091061)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10091061'
+DEBUG; Created Compound(10091061)
+ERROR; 6-beta-hydrocortisol ; (6~{R},10~{R},11~{S},13~{S},17~{R})-6,11,17-trihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1~{H}-cyclopenta[a]phenanthren-3-one; CC12CCC(=O)C=C1C(CC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-beta-hydroxytestosterone'
+DEBUG; Created Compound(16219473)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=16219473'
+DEBUG; Created Compound(16219473)
+ERROR; 6-beta-hydroxytestosterone ; (6~{R},10~{R},13~{S},17~{S})-6,17-dihydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC3C(C1CCC2O)CC(C4=CC(=O)CCC34C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6-hydroxychlorzoxazone'
+DEBUG; Created Compound(2734)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2734'
+DEBUG; Created Compound(2734)
+ERROR; 6-hydroxychlorzoxazone ; 5-chloro-6-hydroxy-3~{H}-1,3-benzoxazol-2-one; C1=C2C(=CC(=C1Cl)O)OC(=O)N2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6beta-estrone'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=6beta-hydroxy-androstenedione'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=7-Hydroxycoumarin'
+DEBUG; Created Compound(5281426)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5281426'
+DEBUG; Created Compound(5281426)
+ERROR; 7-Hydroxycoumarin ; 7-hydroxychromen-2-one; C1=CC(=CC2=C1C=CC(=O)O2)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=7-METHOXY-1-METHYL-9H-BETA-CARBOLINE'
+DEBUG; Created Compound(5280953)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5280953'
+DEBUG; Created Compound(5280953)
+ERROR; 7-METHOXY-1-METHYL-9H-BETA-CARBOLINE ; 7-methoxy-1-methyl-9~{H}-pyrido[3,4-b]indole; CC1=NC=CC2=C1NC3=C2C=CC(=C3)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=8-HETE'
+DEBUG; Created Compound(11976122)
+DEBUG; Created Compound(5312975)
+DEBUG; Created Compound(5283154)
+DEBUG; Created Compound(102242661)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=11976122'
+DEBUG; Created Compound(11976122)
+ERROR; 8-HETE ; (5~{Z},9~{E},11~{Z},14~{Z})-8-hydroxyicosa-5,9,11,14-tetraenoic acid; CCCCCC=CCC=CC=CC(CC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=8-hydroxycamphor'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=8-hydroxythioguanine'
+DEBUG; Created Compound(10442362)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10442362'
+DEBUG; Created Compound(10442362)
+ERROR; 8-hydroxythioguanine ; 2-amino-6-sulfanylidene-7,9-dihydro-3~{H}-purin-8-one; C12=C(NC(=NC1=S)N)NC(=O)N2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=9-HETE'
+DEBUG; Created Compound(14123398)
+DEBUG; Created Compound(5312978)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=14123398'
+DEBUG; Created Compound(14123398)
+ERROR; 9-HETE ; (5~{Z},7~{E},11~{Z},14~{Z})-9-hydroxyicosa-5,7,11,14-tetraenoic acid; CCCCCC=CCC=CCC(C=CC=CCCCC(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=9-hydroxyrisperidone'
+DEBUG; Created Compound(115237)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=115237'
+DEBUG; Created Compound(115237)
+ERROR; 9-hydroxyrisperidone ; 3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-9-hydroxy-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one; CC1=C(C(=O)N2CCCC(C2=N1)O)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=AMX'
+DEBUG; Created Compound(444879)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=444879'
+DEBUG; Created Compound(444879)
+ERROR; AMX ; [[(3~{R})-4-[[3-[(4-amino-4-oxobutyl)amino]-3-oxopropyl]amino]-3-hydroxy-2,2-dimethyl-4-oxobutoxy]-hydroxyphosphoryl] [(2~{R},3~{S},4~{R},5~{R})-5-(6-aminopurin-9-yl)-4-hydroxy-3-phosphonooxyoxolan-2-yl]methyl hydrogen phosphate; CC(C)(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=NC3=C2N=CN=C3N)O)OP(=O)(O)O)C(C(=O)NCCC(=O)NCCCC(=O)N)O 
+
+MATCH; Acetaminophen; CC(=O)NC1=CC=C(O)C=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Acetaminophen+glucuronide'
+DEBUG; Created Compound(83944)
+DEBUG; Created Compound(56923590)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=83944'
+DEBUG; Created Compound(83944)
+ERROR; Acetaminophen glucuronide ; (2~{S},3~{S},4~{S},5~{R},6~{S})-6-(4-acetamidophenoxy)-3,4,5-trihydroxyoxane-2-carboxylic acid; CC(=O)NC1=CC=C(C=C1)OC2C(C(C(C(O2)C(=O)O)O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Acetaminophen+sulfate'
+DEBUG; Created Compound(83939)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=83939'
+DEBUG; Created Compound(83939)
+ERROR; Acetaminophen sulfate ; (4-acetamidophenyl) hydrogen sulfate; CC(=O)NC1=CC=C(C=C1)OS(=O)(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Acetate'
+DEBUG; Created Compound(175)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=175'
+DEBUG; Created Compound(175)
+ERROR; Acetate ; acetate; CC(=O)[O-] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Acrolein'
+DEBUG; Created Compound(7847)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=7847'
+DEBUG; Created Compound(7847)
+ERROR; Acrolein ; prop-2-enal; C=CC=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Acrylic+Acid'
+DEBUG; Created Compound(6581)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6581'
+DEBUG; Created Compound(6581)
+ERROR; Acrylic Acid ; prop-2-enoic acid; C=CC(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Alcophosphamide'
+DEBUG; Created Compound(98612)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=98612'
+DEBUG; Created Compound(98612)
+ERROR; Alcophosphamide ; 3-[amino-[bis(2-chloroethyl)amino]phosphoryl]oxypropan-1-ol; C(CO)COP(=O)(N)N(CCCl)CCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Aldophosphamide'
+DEBUG; Created Compound(107744)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=107744'
+DEBUG; Created Compound(107744)
+ERROR; Aldophosphamide ; 3-[amino-[bis(2-chloroethyl)amino]phosphoryl]oxypropanal; C(COP(=O)(N)N(CCCl)CCCl)C=O 
+
+MATCH; Alfentanil; CCN1N=NN(CCN2CCC(COC)(CC2)N(C(=O)CC)C2=CC=CC=C2)C1=O
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=All-trans-retinal'
+DEBUG; Created Compound(638015)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=638015'
+DEBUG; Created Compound(638015)
+ERROR; All-trans-retinal ; (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenal; CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC=O)C)C 
+
+MATCH; Allopurinol; O=C1N=CN=C2NNC=C12
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Almotriptan'
+DEBUG; Created Compound(123606)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=123606'
+DEBUG; Created Compound(123606)
+ERROR; Almotriptan ; ~{N},~{N}-dimethyl-2-[5-(pyrrolidin-1-ylsulfonylmethyl)-1~{H}-indol-3-yl]ethanamine; CN(C)CCC1=CNC2=C1C=C(C=C2)CS(=O)(=O)N3CCCC3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Alpha%2CAlpha%2CAlpha-Trifluoro-P-Cresol'
+DEBUG; Created Compound(67874)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=67874'
+DEBUG; Created Compound(67874)
+ERROR; Alpha,Alpha,Alpha-Trifluoro-P-Cresol ; 4-(trifluoromethyl)phenol; C1=CC(=CC=C1C(F)(F)F)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Alpha-hydroxytamoxifen'
+DEBUG; Created Compound(3036580)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3036580'
+DEBUG; Created Compound(3036580)
+ERROR; Alpha-hydroxytamoxifen ; (~{E})-4-[4-[2-(dimethylamino)ethoxy]phenyl]-3,4-diphenylbut-3-en-2-ol; CC(C(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Aminophenazone'
+DEBUG; Created Compound(6009)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6009'
+DEBUG; Created Compound(6009)
+ERROR; Aminophenazone ; 4-(dimethylamino)-1,5-dimethyl-2-phenylpyrazol-3-one; CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)C 
+
+MATCH; Amitriptyline; CN(C)CCC=C1C2=CC=CC=C2CCC2=CC=CC=C12
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Amphetamine'
+DEBUG; Created Compound(3007)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3007'
+DEBUG; Created Compound(3007)
+ERROR; Amphetamine ; 1-phenylpropan-2-amine; CC(CC1=CC=CC=C1)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Androstenedione'
+DEBUG; Created Compound(6128)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6128'
+DEBUG; Created Compound(6128)
+ERROR; Androstenedione ; (8~{R},9~{S},10~{R},13~{S},14~{S})-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1~{H}-cyclopenta[a]phenanthrene-3,17-dione; CC12CCC(=O)C=C1CCC3C2CCC4(C3CCC4=O)C 
+
+MATCH; Aniline; NC1=CC=CC=C1
+MATCH; Antipyrine; CN1N(C(=O)C=C1C)C1=CC=CC=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Aprepitant'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Arachidonic+Acid'
+DEBUG; Created Compound(444899)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=444899'
+DEBUG; Created Compound(444899)
+ERROR; Arachidonic Acid ; (5~{Z},8~{Z},11~{Z},14~{Z})-icosa-5,8,11,14-tetraenoic acid; CCCCCC=CCC=CCC=CCC=CCCCC(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Aripiprazole'
+DEBUG; Created Compound(60795)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=60795'
+DEBUG; Created Compound(60795)
+ERROR; Aripiprazole ; 7-[4-[4-(2,3-dichlorophenyl)piperazin-1-yl]butoxy]-3,4-dihydro-1~{H}-quinolin-2-one; C1CC(=O)NC2=C1C=CC(=C2)OCCCCN3CCN(CC3)C4=C(C(=CC=C4)Cl)Cl 
+
+MATCH; Astemizole; COC1=CC=C(CCN2CCC(CC2)NC2=NC3=CC=CC=C3N2CC2=CC=C(F)C=C2)C=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Azathioprine'
+DEBUG; Created Compound(2265)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2265'
+DEBUG; Created Compound(2265)
+ERROR; Azathioprine ; 6-(3-methyl-5-nitroimidazol-4-yl)sulfanyl-7~{H}-purine; CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=BIBF+1202'
+DEBUG; Created Compound(11606145)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=11606145'
+DEBUG; Created Compound(11606145)
+ERROR; BIBF 1202 ; (3~{Z})-3-[[4-[methyl-[2-(4-methylpiperazin-1-yl)acetyl]amino]anilino]-phenylmethylidene]-2-oxo-1~{H}-indole-6-carboxylic acid; CN1CCN(CC1)CC(=O)N(C)C2=CC=C(C=C2)NC(=C3C4=C(C=C(C=C4)C(=O)O)NC3=O)C5=CC=CC=C5 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=BIBF+1202+glucuronide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Balsalazide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Bambuterol'
+DEBUG; Created Compound(54766)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=54766'
+DEBUG; Created Compound(54766)
+ERROR; Bambuterol ; [3-[2-(~{tert}-butylamino)-1-hydroxyethyl]-5-(dimethylcarbamoyloxy)phenyl] ~{N},~{N}-dimethylcarbamate; CC(C)(C)NCC(C1=CC(=CC(=C1)OC(=O)N(C)C)OC(=O)N(C)C)O 
+
+MATCH; Benzophenone; O=C(C1=CC=CC=C1)C1=CC=CC=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Benzyl+alcohol'
+DEBUG; Created Compound(244)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=244'
+DEBUG; Created Compound(244)
+ERROR; Benzyl alcohol ; phenylmethanol; C1=CC=C(C=C1)CO 
+
+MATCH; Budesonide; [H][C@@]12C[C@H]3OC(CCC)O[C@@]3(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Buprenorphine'
+DEBUG; Created Compound(644073)
+DEBUG; Created Compound(3033050)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=644073'
+DEBUG; Created Compound(644073)
+ERROR; Buprenorphine ; (1~{S},2~{S},6~{R},14~{R},15~{R},16~{R})-5-(cyclopropylmethyl)-16-[(2~{S})-2-hydroxy-3,3-dimethylbutan-2-yl]-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.1^{2,8}.0^{1,6}.0^{2,14}.0^{12,20}]icosa-8(20),9,11-trien-11-ol; CC(C)(C)C(C)(C1CC23CCC1(C4C25CCN(C3CC6=C5C(=C(C=C6)O)O4)CC7CC7)OC)O 
+
+MATCH; Bupropion; CC(NC(C)(C)C)C(=O)C1=CC(Cl)=CC=C1
+MATCH; Caffeine; CN1C=NC2=C1C(=O)N(C)C(=O)N2C
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Camphor'
+DEBUG; Created Compound(2537)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2537'
+DEBUG; Created Compound(2537)
+ERROR; Camphor ; 1,7,7-trimethylbicyclo[2.2.1]heptan-2-one; CC1(C2CCC1(C(=O)C2)C)C 
+
+MATCH; Carbamazepine; NC(=O)N1C2=CC=CC=C2C=CC2=CC=CC=C12
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Carbon+dioxide'
+DEBUG; Created Compound(280)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=280'
+DEBUG; Created Compound(280)
+ERROR; Carbon dioxide ; None; C(=O)=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Carboxyphosphamide'
+DEBUG; Created Compound(31515)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=31515'
+DEBUG; Created Compound(31515)
+ERROR; Carboxyphosphamide ; 3-[amino-[bis(2-chloroethyl)amino]phosphoryl]oxypropanoic acid; C(COP(=O)(N)N(CCCl)CCCl)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Chloral+hydrate'
+DEBUG; Created Compound(2707)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2707'
+DEBUG; Created Compound(2707)
+ERROR; Chloral hydrate ; 2,2,2-trichloroethane-1,1-diol; C(C(Cl)(Cl)Cl)(O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Chloroacetaldehyde'
+DEBUG; Created Compound(33)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=33'
+DEBUG; Created Compound(33)
+ERROR; Chloroacetaldehyde ; 2-chloroacetaldehyde; C(C=O)Cl 
+
+MATCH; Chlorzoxazone; ClC1=CC2=C(OC(=O)N2)C=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Choline'
+DEBUG; Created Compound(305)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=305'
+DEBUG; Created Compound(305)
+ERROR; Choline ; 2-hydroxyethyl(trimethyl)azanium; C[N+](C)(C)CCO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Cinnamaldehyde'
+DEBUG; Created Compound(637511)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=637511'
+DEBUG; Created Compound(637511)
+ERROR; Cinnamaldehyde ; (~{E})-3-phenylprop-2-enal; C1=CC=C(C=C1)C=CC=O 
+
+MATCH; Cinnarizine; C(C=CC1=CC=CC=C1)N1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Cisapride'
+DEBUG; Created Compound(2769)
+DEBUG; Created Compound(6917698)
+DEBUG; Created Compound(5311047)
+DEBUG; Created Compound(6604902)
+DEBUG; Created Compound(13677779)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2769'
+DEBUG; Created Compound(2769)
+ERROR; Cisapride ; 4-amino-5-chloro-~{N}-[1-[3-(4-fluorophenoxy)propyl]-3-methoxypiperidin-4-yl]-2-methoxybenzamide; COC1CN(CCC1NC(=O)C2=CC(=C(C=C2OC)N)Cl)CCCOC3=CC=C(C=C3)F 
+
+MATCH; Citalopram; CN(C)CCCC1(OCC2=C1C=CC(=C2)C#N)C1=CC=C(F)C=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Citalopram+N-oxide'
+DEBUG; Created Compound(10068142)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10068142'
+DEBUG; Created Compound(10068142)
+ERROR; Citalopram N-oxide ; 3-[5-cyano-1-(4-fluorophenyl)-3~{H}-2-benzofuran-1-yl]-~{N},~{N}-dimethylpropan-1-amine oxide; C[N+](C)(CCCC1(C2=C(CO1)C=C(C=C2)C#N)C3=CC=C(C=C3)F)[O-] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Clorazepate'
+DEBUG; Created Compound(2809)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2809'
+DEBUG; Created Compound(2809)
+ERROR; Clorazepate ; 7-chloro-2-oxo-5-phenyl-1,3-dihydro-1,4-benzodiazepine-3-carboxylic acid; C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)C(=O)O 
+
+MATCH; Clozapine; CN1CCN(CC1)C1=NC2=CC(Cl)=CC=C2NC2=CC=CC=C12
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Cocaine'
+DEBUG; Created Compound(446220)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=446220'
+DEBUG; Created Compound(446220)
+ERROR; Cocaine ; methyl (1~{R},2~{R},3~{S},5~{S})-3-benzoyloxy-8-methyl-8-azabicyclo[3.2.1]octane-2-carboxylate; CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O)OC 
+
+MATCH; Codeine; [H][C@@]12OC3=C(OC)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Codeine-6-glucuronide'
+DEBUG; Created Compound(5489029)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5489029'
+DEBUG; Created Compound(5489029)
+ERROR; Codeine-6-glucuronide ; (2~{S},3~{S},4~{S},5~{R},6~{R})-6-[[(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-methoxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid; CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)OC6C(C(C(C(O6)C(=O)O)O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Cotinine'
+DEBUG; Created Compound(854019)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=854019'
+DEBUG; Created Compound(854019)
+ERROR; Cotinine ; (5~{S})-1-methyl-5-pyridin-3-ylpyrrolidin-2-one; CN1C(CCC1=O)C2=CN=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Coumarin'
+DEBUG; Created Compound(323)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=323'
+DEBUG; Created Compound(323)
+ERROR; Coumarin ; chromen-2-one; C1=CC=C2C(=C1)C=CC(=O)O2 
+
+MATCH; Cyclophosphamide; ClCCN(CCCl)P1(=O)NCCCO1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Debrisoquin'
+DEBUG; Created Compound(2966)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2966'
+DEBUG; Created Compound(2966)
+ERROR; Debrisoquin ; 3,4-dihydro-1~{H}-isoquinoline-2-carboximidamide; C1CN(CC2=CC=CC=C21)C(=N)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Descarboethoxyloratadine'
+DEBUG; Created Compound(124087)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=124087'
+DEBUG; Created Compound(124087)
+ERROR; Descarboethoxyloratadine ; 13-chloro-2-piperidin-4-ylidene-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaene; C1CC2=C(C=CC(=C2)Cl)C(=C3CCNCC3)C4=C1C=CC=N4 
+
+MATCH; Desipramine; CNCCCN1C2=CC=CC=C2CCC2=CC=CC=C12
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Dextroamphetamine'
+DEBUG; Created Compound(5826)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5826'
+DEBUG; Created Compound(5826)
+ERROR; Dextroamphetamine ; (2~{S})-1-phenylpropan-2-amine; CC(CC1=CC=CC=C1)N 
+
+MATCH; Dextromethorphan; [H][C@]12CC3=C(C=C(OC)C=C3)[C@@]3(CCCC[C@]13[H])CCN2C
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Dextrorphan'
+DEBUG; Created Compound(5360697)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5360697'
+DEBUG; Created Compound(5360697)
+ERROR; Dextrorphan ; (1~{S},9~{S},10~{S})-17-methyl-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-trien-4-ol; CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Dextrorphan+O-glucuronide'
+DEBUG; Created Compound(24883428)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=24883428'
+DEBUG; Created Compound(24883428)
+ERROR; Dextrorphan O-glucuronide ; (2~{S},3~{S},4~{S},5~{R})-3,4,5-trihydroxy-6-[[(1~{S},9~{S},10~{S})-17-methyl-17-azatetracyclo[7.5.3.0^{1,10}.0^{2,7}]heptadeca-2(7),3,5-trien-4-yl]oxy]oxane-2-carboxylic acid; CN1CCC23CCCCC2C1CC4=C3C=C(C=C4)OC5C(C(C(C(O5)C(=O)O)O)O)O 
+
+MATCH; Diazepam; CN1C2=C(C=C(Cl)C=C2)C(=NCC1=O)C1=CC=CC=C1
+MATCH; Diclofenac; OC(=O)CC1=CC=CC=C1NC1=C(Cl)C=CC=C1Cl
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Diclofenac+acyl+glucuronide'
+DEBUG; Created Compound(16084218)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=16084218'
+DEBUG; Created Compound(16084218)
+ERROR; Diclofenac acyl glucuronide ; (2~{S},3~{S},4~{S},5~{R},6~{S})-6-[2-[2-(2,6-dichloroanilino)phenyl]acetyl]oxy-3,4,5-trihydroxyoxane-2-carboxylic acid; C1=CC=C(C(=C1)CC(=O)OC2C(C(C(C(O2)C(=O)O)O)O)O)NC3=C(C=CC=C3Cl)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Dihydromorphine'
+DEBUG; Created Compound(5359421)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5359421'
+DEBUG; Created Compound(5359421)
+ERROR; Dihydromorphine ; (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-3-methyl-2,4,4~{a},5,6,7,7~{a},13-octahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol; CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(CC4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Dihydrotestosterone'
+DEBUG; Created Compound(10635)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10635'
+DEBUG; Created Compound(10635)
+ERROR; Dihydrotestosterone ; (5~{S},8~{R},9~{S},10~{S},13~{S},14~{S},17~{S})-17-hydroxy-10,13-dimethyl-1,2,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydrocyclopenta[a]phenanthren-3-one; CC12CCC(=O)CC1CCC3C2CCC4(C3CCC4O)C 
+
+MATCH; Domperidone; ClC1=CC2=C(C=C1)N(C1CCN(CCCN3C(=O)NC4=CC=CC=C34)CC1)C(=O)N2
+MATCH; Doxorubicin; COC1=CC=CC2=C1C(=O)C1=C(O)C3=C(C[C@](O)(C[C@@H]3O[C@H]3C[C@H](N)[C@H](O)[C@H](C)O3)C(=O)CO)C(O)=C1C2=O
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Doxorubicinol'
+DEBUG; Created Compound(83970)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=83970'
+DEBUG; Created Compound(83970)
+ERROR; Doxorubicinol ; (7~{S},9~{S})-7-[(2~{R},4~{S},5~{S},6~{S})-4-amino-5-hydroxy-6-methyloxan-2-yl]oxy-9-[(1~{S})-1,2-dihydroxyethyl]-6,9,11-trihydroxy-4-methoxy-8,10-dihydro-7~{H}-tetracene-5,12-dione; CC1C(C(CC(O1)OC2CC(CC3=C(C4=C(C(=C23)O)C(=O)C5=C(C4=O)C=CC=C5OC)O)(C(CO)O)O)N)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Ebastine'
+DEBUG; Created Compound(3191)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3191'
+DEBUG; Created Compound(3191)
+ERROR; Ebastine ; 4-(4-benzhydryloxypiperidin-1-yl)-1-(4-~{tert}-butylphenyl)butan-1-one; CC(C)(C)C1=CC=C(C=C1)C(=O)CCCN2CCC(CC2)OC(C3=CC=CC=C3)C4=CC=CC=C4 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Endoxifen'
+DEBUG; Created Compound(10090750)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10090750'
+DEBUG; Created Compound(10090750)
+ERROR; Endoxifen ; 4-[(~{Z})-1-[4-[2-(methylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol; CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Enflurane'
+DEBUG; Created Compound(3226)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3226'
+DEBUG; Created Compound(3226)
+ERROR; Enflurane ; 2-chloro-1-(difluoromethoxy)-1,1,2-trifluoroethane; C(C(OC(F)F)(F)F)(F)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Erlotinib'
+DEBUG; Created Compound(176870)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=176870'
+DEBUG; Created Compound(176870)
+ERROR; Erlotinib ; ~{N}-(3-ethynylphenyl)-6,7-bis(2-methoxyethoxy)quinazolin-4-amine; COCCOC1=C(C=C2C(=C1)C(=NC=N2)NC3=CC=CC(=C3)C#C)OCCOC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Estradiol'
+DEBUG; Created Compound(5757)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5757'
+DEBUG; Created Compound(5757)
+ERROR; Estradiol ; (8~{R},9~{S},13~{S},14~{S},17~{S})-13-methyl-6,7,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthrene-3,17-diol; CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4)O 
+
+MATCH; Estradiol; [H][C@@]12CC[C@H](O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+MATCH; Estrone; [H][C@@]12CCC(=O)[C@@]1(C)CC[C@]1([H])C3=C(CC[C@@]21[H])C=C(O)C=C3
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Eszopiclone'
+DEBUG; Created Compound(969472)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=969472'
+DEBUG; Created Compound(969472)
+ERROR; Eszopiclone ; [(7~{S})-6-(5-chloropyridin-2-yl)-5-oxo-7~{H}-pyrrolo[3,4-b]pyrazin-7-yl] 4-methylpiperazine-1-carboxylate; CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl 
+
+MATCH; Ethanol; CCO
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Ethinyl+Estradiol'
+DEBUG; Created Compound(5991)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5991'
+DEBUG; Created Compound(5991)
+ERROR; Ethinyl Estradiol ; (8~{R},9~{S},13~{S},14~{S},17~{R})-17-ethynyl-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthrene-3,17-diol; CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)O 
+
+MATCH; Etoposide; [H][C@]12COC(=O)[C@]1([H])[C@H](C1=CC(OC)=C(O)C(OC)=C1)C1=CC3=C(OCO3)C=C1[C@H]2O[C@@H]1O[C@]2([H])CO[C@@H](C)O[C@@]2([H])[C@H](O)[C@H]1O
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Etoposide+glucuronide'
+DEBUG; Created Compound(46173784)
+DEBUG; Created Compound(46173783)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=46173784'
+DEBUG; Created Compound(46173784)
+ERROR; Etoposide glucuronide ; (2~{S},3~{S},4~{S},5~{R},6~{S})-6-[4-[(5~{S},5~{a}~{R},8~{a}~{R},9~{R})-5-[[(2~{R},4~{a}~{R},6~{R},7~{R},8~{R},8~{a}~{S})-7,8-dihydroxy-2-methyl-4,4~{a},6,7,8,8~{a}-hexahydropyrano[3,2-d][1,3]dioxin-6-yl]oxy]-8-oxo-5~{a},6,8~{a},9-tetrahydro-5~{H}-[2]benzofuro[5,6-f][1,3]benzodioxol-9-yl]-2,6-dimethoxyphenoxy]-3,4,5-trihydroxyoxane-2-carboxylic acid; CC1OCC2C(O1)C(C(C(O2)OC3C4COC(=O)C4C(C5=CC6=C(C=C35)OCO6)C7=CC(=C(C(=C7)OC)OC8C(C(C(C(O8)C(=O)O)O)O)O)OC)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Felbamate'
+DEBUG; Created Compound(3331)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3331'
+DEBUG; Created Compound(3331)
+ERROR; Felbamate ; (3-carbamoyloxy-2-phenylpropyl) carbamate; C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Fenfluramine'
+DEBUG; Created Compound(3337)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3337'
+DEBUG; Created Compound(3337)
+ERROR; Fenfluramine ; ~{N}-ethyl-1-[3-(trifluoromethyl)phenyl]propan-2-amine; CCNC(C)CC1=CC(=CC=C1)C(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Fentanyl'
+DEBUG; Created Compound(3345)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3345'
+DEBUG; Created Compound(3345)
+ERROR; Fentanyl ; ~{N}-phenyl-~{N}-[1-(2-phenylethyl)piperidin-4-yl]propanamide; CCC(=O)N(C1CCN(CC1)CCC2=CC=CC=C2)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Flecainide'
+DEBUG; Created Compound(3356)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3356'
+DEBUG; Created Compound(3356)
+ERROR; Flecainide ; ~{N}-(piperidin-2-ylmethyl)-2,5-bis(2,2,2-trifluoroethoxy)benzamide; C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Floxuridine'
+DEBUG; Created Compound(5790)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5790'
+DEBUG; Created Compound(5790)
+ERROR; Floxuridine ; 5-fluoro-1-[(2~{R},4~{S},5~{R})-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]pyrimidine-2,4-dione; C1C(C(OC1N2C=C(C(=O)NC2=O)F)CO)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Fluorouracil'
+DEBUG; Created Compound(3385)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3385'
+DEBUG; Created Compound(3385)
+ERROR; Fluorouracil ; 5-fluoro-1~{H}-pyrimidine-2,4-dione; C1=C(C(=O)NC(=O)N1)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Fluoxetine'
+DEBUG; Created Compound(3386)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3386'
+DEBUG; Created Compound(3386)
+ERROR; Fluoxetine ; ~{N}-methyl-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine; CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Glucose'
+DEBUG; Created Compound(5793)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5793'
+DEBUG; Created Compound(5793)
+ERROR; Glucose ; (3~{R},4~{S},5~{S},6~{R})-6-(hydroxymethyl)oxane-2,3,4,5-tetrol; C(C1C(C(C(C(O1)O)O)O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Glucose-6-phosphate'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Guanabenz'
+DEBUG; Created Compound(5702063)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5702063'
+DEBUG; Created Compound(5702063)
+ERROR; Guanabenz ; 2-[(~{E})-(2,6-dichlorophenyl)methylideneamino]guanidine; C1=CC(=C(C(=C1)Cl)C=NN=C(N)N)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Guanoxabenz'
+DEBUG; Created Compound(9567831)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9567831'
+DEBUG; Created Compound(9567831)
+ERROR; Guanoxabenz ; 2-[(~{E})-(2,6-dichlorophenyl)methylideneamino]-1-hydroxyguanidine; C1=CC(=C(C(=C1)Cl)C=NN=C(N)NO)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Haloperidol'
+DEBUG; Created Compound(3559)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3559'
+DEBUG; Created Compound(3559)
+ERROR; Haloperidol ; 4-[4-(4-chlorophenyl)-4-hydroxypiperidin-1-yl]-1-(4-fluorophenyl)butan-1-one; C1CN(CCC1(C2=CC=C(C=C2)Cl)O)CCCC(=O)C3=CC=C(C=C3)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Halothane'
+DEBUG; Created Compound(3562)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3562'
+DEBUG; Created Compound(3562)
+ERROR; Halothane ; 2-bromo-2-chloro-1,1,1-trifluoroethane; C(C(F)(F)F)(Cl)Br 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Harmaline'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Harmalol'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Harmol'
+DEBUG; Created Compound(68094)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=68094'
+DEBUG; Created Compound(68094)
+ERROR; Harmol ; 1-methyl-2,9-dihydropyrido[3,4-b]indol-7-one; CC1=C2C(=C3C=CC(=O)C=C3N2)C=CN1 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Heroin'
+DEBUG; Created Compound(5462328)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5462328'
+DEBUG; Created Compound(5462328)
+ERROR; Heroin ; [(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-acetyloxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl] acetate; CC(=O)OC1C=CC2C3CC4=C5C2(C1OC5=C(C=C4)OC(=O)C)CCN3C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hesperetin'
+DEBUG; Created Compound(72281)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=72281'
+DEBUG; Created Compound(72281)
+ERROR; Hesperetin ; (2~{S})-5,7-dihydroxy-2-(3-hydroxy-4-methoxyphenyl)-2,3-dihydrochromen-4-one; COC1=C(C=C(C=C1)C2CC(=O)C3=C(C=C(C=C3O2)O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hippuric+acid'
+DEBUG; Created Compound(464)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=464'
+DEBUG; Created Compound(464)
+ERROR; Hippuric acid ; 2-benzamidoacetic acid; C1=CC=C(C=C1)C(=O)NCC(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hydrocodone'
+DEBUG; Created Compound(5284569)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5284569'
+DEBUG; Created Compound(5284569)
+ERROR; Hydrocodone ; (4~{R},4~{a}~{R},7~{a}~{R},12~{b}~{S})-9-methoxy-3-methyl-1,2,4,4~{a},5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one; CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(=O)CC4 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hydrocortisone'
+DEBUG; Created Compound(5754)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5754'
+DEBUG; Created Compound(5754)
+ERROR; Hydrocortisone ; (8~{S},9~{S},10~{R},11~{S},13~{S},14~{S},17~{R})-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-2,6,7,8,9,11,12,14,15,16-decahydro-1~{H}-cyclopenta[a]phenanthren-3-one; CC12CCC(=O)C=C1CCC3C2C(CC4(C3CCC4(C(=O)CO)O)C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hydrogen+Selenide'
+DEBUG; Created Compound(533)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=533'
+DEBUG; Created Compound(533)
+ERROR; Hydrogen Selenide ; selane; [SeH2] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hydromorphone'
+DEBUG; Created Compound(5284570)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5284570'
+DEBUG; Created Compound(5284570)
+ERROR; Hydromorphone ; (4~{R},4~{a}~{R},7~{a}~{R},12~{b}~{S})-9-hydroxy-3-methyl-1,2,4,4~{a},5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one; CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)CC4 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hydroquinone'
+DEBUG; Created Compound(785)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=785'
+DEBUG; Created Compound(785)
+ERROR; Hydroquinone ; benzene-1,4-diol; C1=CC(=CC=C1O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hydroxybupropion'
+DEBUG; Created Compound(446)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=446'
+DEBUG; Created Compound(446)
+ERROR; Hydroxybupropion ; 1-(3-chlorophenyl)-2-[(1-hydroxy-2-methylpropan-2-yl)amino]propan-1-one; CC(C(=O)C1=CC(=CC=C1)Cl)NC(C)(C)CO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Hydroxyphenytoin'
+DEBUG; Created Compound(17732)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=17732'
+DEBUG; Created Compound(17732)
+ERROR; Hydroxyphenytoin ; 5-(4-hydroxyphenyl)-5-phenylimidazolidine-2,4-dione; C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=C(C=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Ifosfamide'
+DEBUG; Created Compound(3690)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3690'
+DEBUG; Created Compound(3690)
+ERROR; Ifosfamide ; ~{N},3-bis(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine; C1CN(P(=O)(OC1)NCCCl)CCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Imidacloprid'
+DEBUG; Created Compound(86418)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=86418'
+DEBUG; Created Compound(86418)
+ERROR; Imidacloprid ; ~{N}-[1-[(6-chloropyridin-3-yl)methyl]-4,5-dihydroimidazol-2-yl]nitramide; C1CN(C(=N1)N[N+](=O)[O-])CC2=CN=C(C=C2)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Imipramine'
+DEBUG; Created Compound(3696)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3696'
+DEBUG; Created Compound(3696)
+ERROR; Imipramine ; 3-(5,6-dihydrobenzo[b][1]benzazepin-11-yl)-~{N},~{N}-dimethylpropan-1-amine; CN(C)CCCN1C2=CC=CC=C2CCC3=CC=CC=C31 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Ketamine'
+DEBUG; Created Compound(3821)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3821'
+DEBUG; Created Compound(3821)
+ERROR; Ketamine ; 2-(2-chlorophenyl)-2-(methylamino)cyclohexan-1-one; CNC1(CCCCC1=O)C2=CC=CC=C2Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Laquinimod'
+DEBUG; Created Compound(54677946)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=54677946'
+DEBUG; Created Compound(54677946)
+ERROR; Laquinimod ; 5-chloro-~{N}-ethyl-4-hydroxy-1-methyl-2-oxo-~{N}-phenylquinoline-3-carboxamide; CCN(C1=CC=CC=C1)C(=O)C2=C(C3=C(C=CC=C3Cl)N(C2=O)C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Lauric+Acid'
+DEBUG; Created Compound(3893)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3893'
+DEBUG; Created Compound(3893)
+ERROR; Lauric Acid ; dodecanoic acid; CCCCCCCCCCCC(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Levmetamfetamine'
+DEBUG; Created Compound(36604)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=36604'
+DEBUG; Created Compound(36604)
+ERROR; Levmetamfetamine ; (2~{R})-~{N}-methyl-1-phenylpropan-2-amine; CC(CC1=CC=CC=C1)NC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Levomethadyl+Acetate'
+DEBUG; Created Compound(15130)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=15130'
+DEBUG; Created Compound(15130)
+ERROR; Levomethadyl Acetate ; [(3~{S},6~{S})-6-(dimethylamino)-4,4-diphenylheptan-3-yl] acetate; CCC(C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Lidocaine'
+DEBUG; Created Compound(3676)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3676'
+DEBUG; Created Compound(3676)
+ERROR; Lidocaine ; 2-(diethylamino)-~{N}-(2,6-dimethylphenyl)acetamide; CCN(CC)CC(=O)NC1=C(C=CC=C1C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Lisofylline'
+DEBUG; Created Compound(501254)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=501254'
+DEBUG; Created Compound(501254)
+ERROR; Lisofylline ; 1-[(5~{R})-5-hydroxyhexyl]-3,7-dimethylpurine-2,6-dione; CC(CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Loratadine'
+DEBUG; Created Compound(3957)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3957'
+DEBUG; Created Compound(3957)
+ERROR; Loratadine ; ethyl 4-(13-chloro-4-azatricyclo[9.4.0.0^{3,8}]pentadeca-1(11),3(8),4,6,12,14-hexaen-2-ylidene)piperidine-1-carboxylate; CCOC(=O)N1CCC(=C2C3=C(CCC4=C2N=CC=C4)C=C(C=C3)Cl)CC1 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=M-chlorophenylpiperazine'
+DEBUG; Created Compound(1355)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1355'
+DEBUG; Created Compound(1355)
+ERROR; M-chlorophenylpiperazine ; 1-(3-chlorophenyl)piperazine; C1CN(CCN1)C2=CC(=CC=C2)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Melatonin'
+DEBUG; Created Compound(896)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=896'
+DEBUG; Created Compound(896)
+ERROR; Melatonin ; ~{N}-[2-(5-methoxy-1~{H}-indol-3-yl)ethyl]acetamide; CC(=O)NCCC1=CNC2=C1C=C(C=C2)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Mephenytoin'
+DEBUG; Created Compound(4060)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4060'
+DEBUG; Created Compound(4060)
+ERROR; Mephenytoin ; 5-ethyl-3-methyl-5-phenylimidazolidine-2,4-dione; CCC1(C(=O)N(C(=O)N1)C)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Mercaptopurine'
+DEBUG; Created Compound(667490)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=667490'
+DEBUG; Created Compound(667490)
+ERROR; Mercaptopurine ; 3,7-dihydropurine-6-thione; C1=NC2=C(N1)C(=S)N=CN2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Mestranol'
+DEBUG; Created Compound(6291)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6291'
+DEBUG; Created Compound(6291)
+ERROR; Mestranol ; (8~{R},9~{S},13~{S},14~{S},17~{R})-17-ethynyl-3-methoxy-13-methyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-17-ol; CC12CCC3C(C1CCC2(C#C)O)CCC4=C3C=CC(=C4)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Methadone'
+DEBUG; Created Compound(4095)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4095'
+DEBUG; Created Compound(4095)
+ERROR; Methadone ; 6-(dimethylamino)-4,4-diphenylheptan-3-one; CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Methamphetamine'
+DEBUG; Created Compound(10836)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10836'
+DEBUG; Created Compound(10836)
+ERROR; Methamphetamine ; (2~{S})-~{N}-methyl-1-phenylpropan-2-amine; CC(CC1=CC=CC=C1)NC 
+
+MATCH; Methyl salicylate; COC(=O)C1=CC=CC=C1O
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Methyl-selenol'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Methylmercaptopurine'
+DEBUG; Created Compound(3037429)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3037429'
+DEBUG; Created Compound(3037429)
+ERROR; Methylmercaptopurine ; 2-methyl-3,7-dihydropurine-6-thione; CC1=NC(=S)C2=C(N1)N=CN2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Miltefosine'
+DEBUG; Created Compound(3599)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3599'
+DEBUG; Created Compound(3599)
+ERROR; Miltefosine ; hexadecyl 2-(trimethylazaniumyl)ethyl phosphate; CCCCCCCCCCCCCCCCOP(=O)([O-])OCC[N+](C)(C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Modafinil'
+DEBUG; Created Compound(4236)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4236'
+DEBUG; Created Compound(4236)
+ERROR; Modafinil ; 2-benzhydrylsulfinylacetamide; C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Morphine'
+DEBUG; Created Compound(5288826)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5288826'
+DEBUG; Created Compound(5288826)
+ERROR; Morphine ; (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol; CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=N-Acetyl-5-hydroxytryptamine'
+DEBUG; Created Compound(903)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=903'
+DEBUG; Created Compound(903)
+ERROR; N-Acetyl-5-hydroxytryptamine ; ~{N}-[2-(5-hydroxy-1~{H}-indol-3-yl)ethyl]acetamide; CC(=O)NCCC1=CNC2=C1C=C(C=C2)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=N-Desmethyltamoxifen'
+DEBUG; Created Compound(6378383)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6378383'
+DEBUG; Created Compound(6378383)
+ERROR; N-Desmethyltamoxifen ; 2-[4-[(~{Z})-1,2-diphenylbut-1-enyl]phenoxy]-~{N}-methylethanamine; CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=N-Hydroxyaniline'
+DEBUG; Created Compound(7518)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=7518'
+DEBUG; Created Compound(7518)
+ERROR; N-Hydroxyaniline ; ~{N}-phenylhydroxylamine; C1=CC=C(C=C1)NO 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=N-phenylpropionamide'
+DEBUG; Created Compound(12107)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=12107'
+DEBUG; Created Compound(12107)
+ERROR; N-phenylpropionamide ; ~{N}-phenylpropanamide; CCC(=O)NC1=CC=CC=C1 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=N4-Acetylsulfamethoxazole'
+DEBUG; Created Compound(65280)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=65280'
+DEBUG; Created Compound(65280)
+ERROR; N4-Acetylsulfamethoxazole ; ~{N}-[4-[(5-methyl-1,2-oxazol-3-yl)sulfamoyl]phenyl]acetamide; CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=NAPQI'
+DEBUG; Created Compound(39763)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=39763'
+DEBUG; Created Compound(39763)
+ERROR; NAPQI ; ~{N}-(4-oxocyclohexa-2,5-dien-1-ylidene)acetamide; CC(=O)N=C1C=CC(=O)C=C1 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nabumetone'
+DEBUG; Created Compound(4409)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4409'
+DEBUG; Created Compound(4409)
+ERROR; Nabumetone ; 4-(6-methoxynaphthalen-2-yl)butan-2-one; CC(=O)CCC1=CC2=C(C=C1)C=C(C=C2)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nateglinide'
+DEBUG; Created Compound(5311309)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5311309'
+DEBUG; Created Compound(5311309)
+ERROR; Nateglinide ; (2~{R})-3-phenyl-2-[(4-propan-2-ylcyclohexanecarbonyl)amino]propanoic acid; CC(C)C1CCC(CC1)C(=O)NC(CC2=CC=CC=C2)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nefazodone'
+DEBUG; Created Compound(4449)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4449'
+DEBUG; Created Compound(4449)
+ERROR; Nefazodone ; 2-[3-[4-(3-chlorophenyl)piperazin-1-yl]propyl]-5-ethyl-4-(2-phenoxyethyl)-1,2,4-triazol-3-one; CCC1=NN(C(=O)N1CCOC2=CC=CC=C2)CCCN3CCN(CC3)C4=CC(=CC=C4)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nelarabine'
+DEBUG; Created Compound(3011155)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3011155'
+DEBUG; Created Compound(3011155)
+ERROR; Nelarabine ; (2~{R},3~{S},4~{S},5~{R})-2-(2-amino-6-methoxypurin-9-yl)-5-(hydroxymethyl)oxolane-3,4-diol; COC1=NC(=NC2=C1N=CN2C3C(C(C(O3)CO)O)O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nicotine'
+DEBUG; Created Compound(89594)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=89594'
+DEBUG; Created Compound(89594)
+ERROR; Nicotine ; 3-[(2~{S})-1-methylpyrrolidin-2-yl]pyridine; CN1CCCC1C2=CN=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nicotine+glucuronide'
+DEBUG; Created Compound(3035848)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3035848'
+DEBUG; Created Compound(3035848)
+ERROR; Nicotine glucuronide ; (2~{S},3~{S},4~{S},5~{R},6~{S})-3,4,5-trihydroxy-6-[3-[(2~{S})-1-methylpyrrolidin-2-yl]pyridin-1-ium-1-yl]oxane-2-carboxylate; CN1CCCC1C2=C[N+](=CC=C2)C3C(C(C(C(O3)C(=O)[O-])O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nicotine+imine'
+DEBUG; Created Compound(431)
+DEBUG; Created Compound(181139)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=431'
+DEBUG; Created Compound(431)
+ERROR; Nicotine imine ; 3-(1-methyl-3,4-dihydro-2~{H}-pyrrol-1-ium-2-yl)pyridine; C[N+]1=CCCC1C2=CN=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nicotine-1-N-oxide'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nirvanol'
+DEBUG; Created Compound(91480)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=91480'
+DEBUG; Created Compound(91480)
+ERROR; Nirvanol ; 5-ethyl-5-phenylimidazolidine-2,4-dione; CCC1(C(=O)NC(=O)N1)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nitrate'
+DEBUG; Created Compound(943)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=943'
+DEBUG; Created Compound(943)
+ERROR; Nitrate ; nitrate; [N+](=O)([O-])[O-] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nitric+Oxide'
+DEBUG; Created Compound(145068)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=145068'
+DEBUG; Created Compound(145068)
+ERROR; Nitric Oxide ; nitric oxide; [N]=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Norantipyrine'
+DEBUG; Created Compound(4021)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4021'
+DEBUG; Created Compound(4021)
+ERROR; Norantipyrine ; 5-methyl-2-phenyl-4~{H}-pyrazol-3-one; CC1=NN(C(=O)C1)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Norbuprenorphine'
+DEBUG; Created Compound(114976)
+DEBUG; Created Compound(10001793)
+DEBUG; Created Compound(90475976)
+DEBUG; Created Compound(101602192)
+DEBUG; Created Compound(50989071)
+DEBUG; Created Compound(54583644)
+DEBUG; Created Compound(98090271)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=114976'
+DEBUG; Created Compound(114976)
+ERROR; Norbuprenorphine ; (1~{S},2~{S},6~{R},14~{R},15~{R},16~{R})-16-[(2~{S})-2-hydroxy-3,3-dimethylbutan-2-yl]-15-methoxy-13-oxa-5-azahexacyclo[13.2.2.1^{2,8}.0^{1,6}.0^{2,14}.0^{12,20}]icosa-8(20),9,11-trien-11-ol; CC(C)(C)C(C)(C1CC23CCC1(C4C25CCNC3CC6=C5C(=C(C=C6)O)O4)OC)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Norclozapine'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Nordiazepam'
+DEBUG; Created Compound(2997)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2997'
+DEBUG; Created Compound(2997)
+ERROR; Nordiazepam ; 7-chloro-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one; C1C(=O)NC2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Norketamine'
+DEBUG; Created Compound(123767)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=123767'
+DEBUG; Created Compound(123767)
+ERROR; Norketamine ; 2-amino-2-(2-chlorophenyl)cyclohexan-1-one; C1CCC(C(=O)C1)(C2=CC=CC=C2Cl)N 
+
+MATCH; Nortriptyline; CNCCC=C1C2=CC=CC=C2CCC2=CC=CC=C12
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Norverapamil'
+DEBUG; Created Compound(104972)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=104972'
+DEBUG; Created Compound(104972)
+ERROR; Norverapamil ; 2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethylamino]-2-propan-2-ylpentanenitrile; CC(C)C(CCCNCCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=O-Desmethyltramadol'
+DEBUG; Created Compound(9838803)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9838803'
+DEBUG; Created Compound(9838803)
+ERROR; O-Desmethyltramadol ; 3-[(1~{R},2~{R})-2-[(dimethylamino)methyl]-1-hydroxycyclohexyl]phenol; CN(C)CC1CCCCC1(C2=CC(=CC=C2)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Oxazepam'
+DEBUG; Created Compound(4616)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4616'
+DEBUG; Created Compound(4616)
+ERROR; Oxazepam ; 7-chloro-3-hydroxy-5-phenyl-1,3-dihydro-1,4-benzodiazepin-2-one; C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Oxybutynin'
+DEBUG; Created Compound(4634)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4634'
+DEBUG; Created Compound(4634)
+ERROR; Oxybutynin ; 4-(diethylamino)but-2-ynyl 2-cyclohexyl-2-hydroxy-2-phenylacetate; CCN(CC)CC#CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Oxycodone'
+DEBUG; Created Compound(5284603)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5284603'
+DEBUG; Created Compound(5284603)
+ERROR; Oxycodone ; (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a}-hydroxy-9-methoxy-3-methyl-2,4,5,6,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one; CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)OC)O4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Oxymorphone'
+DEBUG; Created Compound(5284604)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5284604'
+DEBUG; Created Compound(5284604)
+ERROR; Oxymorphone ; (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a},9-dihydroxy-3-methyl-2,4,5,6,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one; CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O 
+
+MATCH; P-Cresol; CC1=CC=C(O)C=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=PPX'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Paramethadione'
+DEBUG; Created Compound(8280)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=8280'
+DEBUG; Created Compound(8280)
+ERROR; Paramethadione ; 5-ethyl-3,5-dimethyl-1,3-oxazolidine-2,4-dione; CCC1(C(=O)N(C(=O)O1)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Paraxanthine'
+DEBUG; Created Compound(4687)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4687'
+DEBUG; Created Compound(4687)
+ERROR; Paraxanthine ; 1,7-dimethyl-3~{H}-purine-2,6-dione; CN1C=NC2=C1C(=O)N(C(=O)N2)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Pentoxifylline'
+DEBUG; Created Compound(4740)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4740'
+DEBUG; Created Compound(4740)
+ERROR; Pentoxifylline ; 3,7-dimethyl-1-(5-oxohexyl)purine-2,6-dione; CC(=O)CCCCN1C(=O)C2=C(N=CN2C)N(C1=O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Phenacetin'
+DEBUG; Created Compound(4754)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4754'
+DEBUG; Created Compound(4754)
+ERROR; Phenacetin ; ~{N}-(4-ethoxyphenyl)acetamide; CCOC1=CC=C(C=C1)NC(=O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Phenobarbital'
+DEBUG; Created Compound(4763)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4763'
+DEBUG; Created Compound(4763)
+ERROR; Phenobarbital ; 5-ethyl-5-phenyl-1,3-diazinane-2,4,6-trione; CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Phenol'
+DEBUG; Created Compound(996)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=996'
+DEBUG; Created Compound(996)
+ERROR; Phenol ; phenol; C1=CC=C(C=C1)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Phenylacetaldehyde'
+DEBUG; Created Compound(998)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=998'
+DEBUG; Created Compound(998)
+ERROR; Phenylacetaldehyde ; 2-phenylacetaldehyde; C1=CC=C(C=C1)CC=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Phenytoin'
+DEBUG; Created Compound(1775)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1775'
+DEBUG; Created Compound(1775)
+ERROR; Phenytoin ; 5,5-diphenylimidazolidine-2,4-dione; C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Prednisolone'
+DEBUG; Created Compound(5755)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5755'
+DEBUG; Created Compound(5755)
+ERROR; Prednisolone ; (8~{S},9~{S},10~{R},11~{S},13~{S},14~{S},17~{R})-11,17-dihydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-7,8,9,11,12,14,15,16-octahydro-6~{H}-cyclopenta[a]phenanthren-3-one; CC12CC(C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Prednisone'
+DEBUG; Created Compound(5865)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5865'
+DEBUG; Created Compound(5865)
+ERROR; Prednisone ; (8~{S},9~{S},10~{R},13~{S},14~{S},17~{R})-17-hydroxy-17-(2-hydroxyacetyl)-10,13-dimethyl-6,7,8,9,12,14,15,16-octahydrocyclopenta[a]phenanthrene-3,11-dione; CC12CC(=O)C3C(C1CCC2(C(=O)CO)O)CCC4=CC(=O)C=CC34C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Primidone'
+DEBUG; Created Compound(4909)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4909'
+DEBUG; Created Compound(4909)
+ERROR; Primidone ; 5-ethyl-5-phenyl-1,3-diazinane-4,6-dione; CCC1(C(=O)NCNC1=O)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Progesterone'
+DEBUG; Created Compound(5994)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5994'
+DEBUG; Created Compound(5994)
+ERROR; Progesterone ; (8~{S},9~{S},10~{R},13~{S},14~{S},17~{S})-17-acetyl-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Proguanil'
+DEBUG; Created Compound(6178111)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6178111'
+DEBUG; Created Compound(6178111)
+ERROR; Proguanil ; (1~{E})-1-[amino-(4-chloroanilino)methylidene]-2-propan-2-ylguanidine; CC(C)N=C(N)N=C(N)NC1=CC=C(C=C1)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Pyrazinamide'
+DEBUG; Created Compound(1046)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1046'
+DEBUG; Created Compound(1046)
+ERROR; Pyrazinamide ; pyrazine-2-carboxamide; C1=CN=C(C=N1)C(=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Pyridine+N-oxide'
+DEBUG; Created Compound(12753)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=12753'
+DEBUG; Created Compound(12753)
+ERROR; Pyridine N-oxide ; 1-oxidopyridin-1-ium; C1=CC=[N+](C=C1)[O-] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Quazepam'
+DEBUG; Created Compound(4999)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=4999'
+DEBUG; Created Compound(4999)
+ERROR; Quazepam ; 7-chloro-5-(2-fluorophenyl)-1-(2,2,2-trifluoroethyl)-3~{H}-1,4-benzodiazepine-2-thione; C1C(=S)N(C2=C(C=C(C=C2)Cl)C(=N1)C3=CC=CC=C3F)CC(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Quinidine'
+DEBUG; Created Compound(441074)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=441074'
+DEBUG; Created Compound(441074)
+ERROR; Quinidine ; (~{S})-[(2~{R},4~{S},5~{R})-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol; COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Quinine'
+DEBUG; Created Compound(3034034)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3034034'
+DEBUG; Created Compound(3034034)
+ERROR; Quinine ; (~{R})-[(2~{S},4~{S},5~{R})-5-ethenyl-1-azabicyclo[2.2.2]octan-2-yl]-(6-methoxyquinolin-4-yl)methanol; COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Risperidone'
+DEBUG; Created Compound(5073)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5073'
+DEBUG; Created Compound(5073)
+ERROR; Risperidone ; 3-[2-[4-(6-fluoro-1,2-benzoxazol-3-yl)piperidin-1-yl]ethyl]-2-methyl-6,7,8,9-tetrahydropyrido[1,2-a]pyrimidin-4-one; CC1=C(C(=O)N2CCCCC2=N1)CCN3CCC(CC3)C4=NOC5=C4C=CC(=C5)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Ropivacaine'
+DEBUG; Created Compound(175805)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=175805'
+DEBUG; Created Compound(175805)
+ERROR; Ropivacaine ; (2~{S})-~{N}-(2,6-dimethylphenyl)-1-propylpiperidine-2-carboxamide; CCCN1CCCCC1C(=O)NC2=C(C=CC=C2C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Roquinimex'
+DEBUG; Created Compound(54676478)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=54676478'
+DEBUG; Created Compound(54676478)
+ERROR; Roquinimex ; 4-hydroxy-~{N},1-dimethyl-2-oxo-~{N}-phenylquinoline-3-carboxamide; CN1C2=CC=CC=C2C(=C(C1=O)C(=O)N(C)C3=CC=CC=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Salicylic+acid'
+DEBUG; Created Compound(338)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=338'
+DEBUG; Created Compound(338)
+ERROR; Salicylic acid ; 2-hydroxybenzoic acid; C1=CC=C(C(=C1)C(=O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Saquinavir'
+DEBUG; Created Compound(441243)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=441243'
+DEBUG; Created Compound(441243)
+ERROR; Saquinavir ; (2~{S})-~{N}-[(2~{S},3~{R})-4-[(3~{S},4~{a}~{S},8~{a}~{S})-3-(~{tert}-butylcarbamoyl)-3,4,4~{a},5,6,7,8,8~{a}-octahydro-1~{H}-isoquinolin-2-yl]-3-hydroxy-1-phenylbutan-2-yl]-2-(quinoline-2-carbonylamino)butanediamide; CC(C)(C)NC(=O)C1CC2CCCCC2CN1CC(C(CC3=CC=CC=C3)NC(=O)C(CC(=O)N)NC(=O)C4=NC5=CC=CC=C5C=C4)O 
+
+MATCH; Selegiline; C[C@H](CC1=CC=CC=C1)N(C)CC#C
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Selenious+acid'
+DEBUG; Created Compound(1091)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1091'
+DEBUG; Created Compound(1091)
+ERROR; Selenious acid ; selenous acid; O[Se](=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Selenocysteine'
+DEBUG; Created Compound(6326983)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6326983'
+DEBUG; Created Compound(6326983)
+ERROR; Selenocysteine ; (2~{R})-2-amino-3-$l^{1}-selanylpropanoic acid; C(C(C(=O)O)N)[Se] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Seproxetine'
+DEBUG; Created Compound(3058751)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3058751'
+DEBUG; Created Compound(3058751)
+ERROR; Seproxetine ; (3~{S})-3-phenyl-3-[4-(trifluoromethyl)phenoxy]propan-1-amine; C1=CC=C(C=C1)C(CCN)OC2=CC=C(C=C2)C(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Sodium+Nitrite'
+DEBUG; Created Compound(23668193)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=23668193'
+DEBUG; Created Compound(23668193)
+ERROR; Sodium Nitrite ; sodium;nitrite; N(=O)[O-].[Na+] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Sodium+oxybate'
+DEBUG; Created Compound(23663870)
+DEBUG; Created Compound(10413)
+DEBUG; Created Compound(3037032)
+DEBUG; Created Compound(21285367)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=23663870'
+DEBUG; Created Compound(23663870)
+ERROR; Sodium oxybate ; sodium;4-hydroxybutanoate; C(CC(=O)[O-])CO.[Na+] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Sorafenib'
+DEBUG; Created Compound(216239)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=216239'
+DEBUG; Created Compound(216239)
+ERROR; Sorafenib ; 4-[4-[[4-chloro-3-(trifluoromethyl)phenyl]carbamoylamino]phenoxy]-~{N}-methylpyridine-2-carboxamide; CNC(=O)C1=NC=CC(=C1)OC2=CC=C(C=C2)NC(=O)NC3=CC(=C(C=C3)Cl)C(F)(F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Succinic+Acid'
+DEBUG; Created Compound(1110)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1110'
+DEBUG; Created Compound(1110)
+ERROR; Succinic Acid ; butanedioic acid; C(CC(=O)O)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Succinic+Semialdehyde'
+DEBUG; Created Compound(1112)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1112'
+DEBUG; Created Compound(1112)
+ERROR; Succinic Semialdehyde ; 4-oxobutanoic acid; C(CC(=O)O)C=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Sulfamethoxazole'
+DEBUG; Created Compound(5329)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5329'
+DEBUG; Created Compound(5329)
+ERROR; Sulfamethoxazole ; 4-amino-~{N}-(5-methyl-1,2-oxazol-3-yl)benzenesulfonamide; CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tamoxifen'
+DEBUG; Created Compound(2733526)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2733526'
+DEBUG; Created Compound(2733526)
+ERROR; Tamoxifen ; 2-[4-[(~{Z})-1,2-diphenylbut-1-enyl]phenoxy]-~{N},~{N}-dimethylethanamine; CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tamoxifen+N-oxide'
+DEBUG; Created Compound(3033895)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3033895'
+DEBUG; Created Compound(3033895)
+ERROR; Tamoxifen N-oxide ; 2-[4-[(~{Z})-1,2-diphenylbut-1-enyl]phenoxy]-~{N},~{N}-dimethylethanamine oxide; CCC(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCC[N+](C)(C)[O-])C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Taurine'
+DEBUG; Created Compound(1123)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1123'
+DEBUG; Created Compound(1123)
+ERROR; Taurine ; 2-aminoethanesulfonic acid; C(CS(=O)(=O)O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tegafur'
+DEBUG; Created Compound(5386)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5386'
+DEBUG; Created Compound(5386)
+ERROR; Tegafur ; 5-fluoro-1-(oxolan-2-yl)pyrimidine-2,4-dione; C1CC(OC1)N2C=C(C(=O)NC2=O)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Temazepam'
+DEBUG; Created Compound(5391)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5391'
+DEBUG; Created Compound(5391)
+ERROR; Temazepam ; 7-chloro-3-hydroxy-1-methyl-5-phenyl-3~{H}-1,4-benzodiazepin-2-one; CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Temazepam'
+DEBUG; Created Compound(5391)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5391'
+DEBUG; Created Compound(5391)
+ERROR; Temazepam ; 7-chloro-3-hydroxy-1-methyl-5-phenyl-3~{H}-1,4-benzodiazepin-2-one; CN1C2=C(C=C(C=C2)Cl)C(=NC(C1=O)O)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tenofovir'
+DEBUG; Created Compound(464205)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=464205'
+DEBUG; Created Compound(464205)
+ERROR; Tenofovir ; [(2~{R})-1-(6-aminopurin-9-yl)propan-2-yl]oxymethylphosphonic acid; CC(CN1C=NC2=C1N=CN=C2N)OCP(=O)(O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tenofovir+alafenamide'
+DEBUG; Created Compound(9574768)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9574768'
+DEBUG; Created Compound(9574768)
+ERROR; Tenofovir alafenamide ; propan-2-yl (2~{S})-2-[[[(2~{R})-1-(6-aminopurin-9-yl)propan-2-yl]oxymethyl-phenoxyphosphoryl]amino]propanoate; CC(C)OC(=O)C(C)NP(=O)(COC(C)CN1C=NC2=C1N=CN=C2N)OC3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Terbinafine'
+DEBUG; Created Compound(1549008)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=1549008'
+DEBUG; Created Compound(1549008)
+ERROR; Terbinafine ; (~{E})-~{N},6,6-trimethyl-~{N}-(naphthalen-1-ylmethyl)hept-2-en-4-yn-1-amine; CC(C)(C)C#CC=CCN(C)CC1=CC=CC2=CC=CC=C21 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Terfenadine'
+DEBUG; Created Compound(5405)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5405'
+DEBUG; Created Compound(5405)
+ERROR; Terfenadine ; 1-(4-~{tert}-butylphenyl)-4-[4-[hydroxy(diphenyl)methyl]piperidin-1-yl]butan-1-ol; CC(C)(C)C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Testosterone'
+DEBUG; Created Compound(6013)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6013'
+DEBUG; Created Compound(6013)
+ERROR; Testosterone ; (8~{R},9~{S},10~{R},13~{S},14~{S},17~{S})-17-hydroxy-10,13-dimethyl-1,2,6,7,8,9,11,12,14,15,16,17-dodecahydrocyclopenta[a]phenanthren-3-one; CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC34C 
+
+MATCH; Theobromine; CN1C=NC2=C1C(=O)NC(=O)N2C
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Theophylline'
+DEBUG; Created Compound(2153)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2153'
+DEBUG; Created Compound(2153)
+ERROR; Theophylline ; 1,3-dimethyl-7~{H}-purine-2,6-dione; CN1C2=C(C(=O)N(C1=O)C)NC=N2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Thioguanosine+monophosphate'
+DEBUG; Created Compound(129715313)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=129715313'
+DEBUG; Created Compound(129715313)
+ERROR; Thioguanosine monophosphate ; [(2~{R},3~{R},4~{R},5~{R})-5-(2-amino-6-oxo-3~{H}-purin-9-yl)-3-hydroxy-4-sulfanyloxolan-2-yl]methyl dihydrogen phosphate; C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)O)O)S)NC(=NC2=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Thiouric+acid'
+DEBUG; Created Compound(3034255)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3034255'
+DEBUG; Created Compound(3034255)
+ERROR; Thiouric acid ; 2-sulfanylidene-7,9-dihydro-3~{H}-purine-6,8-dione; C12=C(NC(=O)N1)NC(=S)NC2=O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Thioxanthine+monophosphate'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Thymol'
+DEBUG; Created Compound(6989)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6989'
+DEBUG; Created Compound(6989)
+ERROR; Thymol ; 5-methyl-2-propan-2-ylphenol; CC1=CC(=C(C=C1)C(C)C)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tioguanine'
+DEBUG; Created Compound(2723601)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2723601'
+DEBUG; Created Compound(2723601)
+ERROR; Tioguanine ; 2-amino-3,7-dihydropurine-6-thione; C1=NC2=C(N1)C(=S)N=C(N2)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tizanidine'
+DEBUG; Created Compound(5487)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5487'
+DEBUG; Created Compound(5487)
+ERROR; Tizanidine ; 5-chloro-~{N}-(4,5-dihydro-1~{H}-imidazol-2-yl)-2,1,3-benzothiadiazol-4-amine; C1CN=C(N1)NC2=C(C=CC3=NSN=C32)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tolbutamide'
+DEBUG; Created Compound(5505)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5505'
+DEBUG; Created Compound(5505)
+ERROR; Tolbutamide ; 1-butyl-3-(4-methylphenyl)sulfonylurea; CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C 
+
+MATCH; Toluene; CC1=CC=CC=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tramadol'
+DEBUG; Created Compound(33741)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=33741'
+DEBUG; Created Compound(33741)
+ERROR; Tramadol ; (1~{R},2~{R})-2-[(dimethylamino)methyl]-1-(3-methoxyphenyl)cyclohexan-1-ol; CN(C)CC1CCCCC1(C2=CC(=CC=C2)OC)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Tretinoin'
+DEBUG; Created Compound(444795)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=444795'
+DEBUG; Created Compound(444795)
+ERROR; Tretinoin ; (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraenoic acid; CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CC(=O)O)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Trichloroethylene'
+DEBUG; Created Compound(6575)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6575'
+DEBUG; Created Compound(6575)
+ERROR; Trichloroethylene ; 1,1,2-trichloroethene; C(=C(Cl)Cl)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Trifluoroacetyl+chloride'
+DEBUG; Created Compound(61106)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=61106'
+DEBUG; Created Compound(61106)
+ERROR; Trifluoroacetyl chloride ; 2,2,2-trifluoroacetyl chloride; C(=O)(C(F)(F)F)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Trimethadione'
+DEBUG; Created Compound(5576)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5576'
+DEBUG; Created Compound(5576)
+ERROR; Trimethadione ; 3,5,5-trimethyl-1,3-oxazolidine-2,4-dione; CC1(C(=O)N(C(=O)O1)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Trofosfamide'
+DEBUG; Created Compound(65702)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=65702'
+DEBUG; Created Compound(65702)
+ERROR; Trofosfamide ; ~{N},~{N},3-tris(2-chloroethyl)-2-oxo-1,3,2$l^{5}-oxazaphosphinan-2-amine; C1CN(P(=O)(OC1)N(CCCl)CCCl)CCCl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Valproic+Acid'
+DEBUG; Created Compound(3121)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3121'
+DEBUG; Created Compound(3121)
+ERROR; Valproic Acid ; 2-propylpentanoic acid; CCCC(CCC)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Verapamil'
+DEBUG; Created Compound(2520)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2520'
+DEBUG; Created Compound(2520)
+ERROR; Verapamil ; 2-(3,4-dimethoxyphenyl)-5-[2-(3,4-dimethoxyphenyl)ethyl-methylamino]-2-propan-2-ylpentanenitrile; CC(C)C(CCCN(C)CCC1=CC(=C(C=C1)OC)OC)(C#N)C2=CC(=C(C=C2)OC)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Vitamin+A'
+DEBUG; Created Compound(445354)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=445354'
+DEBUG; Created Compound(445354)
+ERROR; Vitamin A ; (2~{E},4~{E},6~{E},8~{E})-3,7-dimethyl-9-(2,6,6-trimethylcyclohexen-1-yl)nona-2,4,6,8-tetraen-1-ol; CC1=C(C(CCC1)(C)C)C=CC(=CC=CC(=CCO)C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Zafirlukast'
+DEBUG; Created Compound(5717)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5717'
+DEBUG; Created Compound(5717)
+ERROR; Zafirlukast ; cyclopentyl ~{N}-[3-[[2-methoxy-4-[(2-methylphenyl)sulfonylcarbamoyl]phenyl]methyl]-1-methylindol-5-yl]carbamate; CC1=CC=CC=C1S(=O)(=O)NC(=O)C2=CC(=C(C=C2)CC3=CN(C4=C3C=C(C=C4)NC(=O)OC5CCCC5)C)OC 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Zolpidem'
+DEBUG; Created Compound(5732)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5732'
+DEBUG; Created Compound(5732)
+ERROR; Zolpidem ; ~{N},~{N}-dimethyl-2-[6-methyl-2-(4-methylphenyl)imidazo[1,2-a]pyridin-3-yl]acetamide; CC1=CC=C(C=C1)C2=C(N3C=C(C=CC3=N2)C)CC(=O)N(C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Zonisamide'
+DEBUG; Created Compound(5734)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5734'
+DEBUG; Created Compound(5734)
+ERROR; Zonisamide ; 1,2-benzoxazol-3-ylmethanesulfonamide; C1=CC=C2C(=C1)C(=NO2)CS(=O)(=O)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=Zopiclone'
+DEBUG; Created Compound(5735)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5735'
+DEBUG; Created Compound(5735)
+ERROR; Zopiclone ; [6-(5-chloropyridin-2-yl)-5-oxo-7~{H}-pyrrolo[3,4-b]pyrazin-7-yl] 4-methylpiperazine-1-carboxylate; CN1CCN(CC1)C(=O)OC2C3=NC=CN=C3C(=O)N2C4=NC=C(C=C4)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=acetaldehyde'
+DEBUG; Created Compound(177)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=177'
+DEBUG; Created Compound(177)
+ERROR; acetaldehyde ; acetaldehyde; CC=O 
+
+MATCH; acetaminophen; CC(=O)NC1=CC=C(O)C=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=alpha-Hydroxy-N-desmethyltamoxifen'
+DEBUG; Created Compound(10474509)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=10474509'
+DEBUG; Created Compound(10474509)
+ERROR; alpha-Hydroxy-N-desmethyltamoxifen ; (~{E})-4-[4-[2-(methylamino)ethoxy]phenyl]-3,4-diphenylbut-3-en-2-ol; CC(C(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCCNC)C3=CC=CC=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=alpha-Hydroxytamoxifen+N-oxide'
+DEBUG; Created Compound(72201074)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=72201074'
+DEBUG; Created Compound(72201074)
+ERROR; alpha-Hydroxytamoxifen N-oxide ; 2-[4-[(~{E})-3-hydroxy-1,2-diphenylbut-1-enyl]phenoxy]-~{N},~{N}-dimethylethanamine oxide; CC(C(=C(C1=CC=CC=C1)C2=CC=C(C=C2)OCC[N+](C)(C)[O-])C3=CC=CC=C3)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=arabinofuranosylguanine'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=bromide'
+DEBUG; Created Compound(259)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=259'
+DEBUG; Created Compound(259)
+ERROR; bromide ; bromide; [Br-] 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=chlorotrifluoroethane'
+DEBUG; Created Compound(6408)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6408'
+DEBUG; Created Compound(6408)
+ERROR; chlorotrifluoroethane ; 2-chloro-1,1,1-trifluoroethane; C(C(F)(F)F)Cl 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=cis-4-Hydroxytamoxifen'
+DEBUG; Created Compound(5352135)
+DEBUG; Created Compound(449459)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5352135'
+DEBUG; Created Compound(5352135)
+ERROR; cis-4-Hydroxytamoxifen ; 4-[(~{E})-1-[4-[2-(dimethylamino)ethoxy]phenyl]-2-phenylbut-1-enyl]phenol; CCC(=C(C1=CC=C(C=C1)O)C2=CC=C(C=C2)OCCN(C)C)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=cycloguanil'
+DEBUG; Created Compound(9049)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9049'
+DEBUG; Created Compound(9049)
+ERROR; cycloguanil ; 1-(4-chlorophenyl)-6,6-dimethyl-1,3,5-triazine-2,4-diamine; CC1(N=C(N=C(N1C2=CC=C(C=C2)Cl)N)N)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=dimethadione'
+DEBUG; Created Compound(3081)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3081'
+DEBUG; Created Compound(3081)
+ERROR; dimethadione ; 5,5-dimethyl-1,3-oxazolidine-2,4-dione; CC1(C(=O)NC(=O)O1)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=eriodictyol'
+DEBUG; Created Compound(440735)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=440735'
+DEBUG; Created Compound(440735)
+ERROR; eriodictyol ; (2~{S})-2-(3,4-dihydroxyphenyl)-5,7-dihydroxy-2,3-dihydrochromen-4-one; C1C(OC2=CC(=CC(=C2C1=O)O)O)C3=CC(=C(C=C3)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=fexofenadine'
+DEBUG; Created Compound(3348)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3348'
+DEBUG; Created Compound(3348)
+ERROR; fexofenadine ; 2-[4-[1-hydroxy-4-[4-[hydroxy(diphenyl)methyl]piperidin-1-yl]butyl]phenyl]-2-methylpropanoic acid; CC(C)(C1=CC=C(C=C1)C(CCCN2CCC(CC2)C(C3=CC=CC=C3)(C4=CC=CC=C4)O)O)C(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=fluorobenzoylpropionic+acid'
+DEBUG; Created Compound(2758337)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=2758337'
+DEBUG; Created Compound(2758337)
+ERROR; fluorobenzoylpropionic acid ; 4-(3,4-difluorophenyl)-4-oxobutanoic acid; C1=CC(=C(C=C1C(=O)CCC(=O)O)F)F 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=hydromorphone'
+DEBUG; Created Compound(5284570)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5284570'
+DEBUG; Created Compound(5284570)
+ERROR; hydromorphone ; (4~{R},4~{a}~{R},7~{a}~{R},12~{b}~{S})-9-hydroxy-3-methyl-1,2,4,4~{a},5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one; CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(=O)CC4 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=modafinil+acid'
+DEBUG; Created Compound(3085267)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=3085267'
+DEBUG; Created Compound(3085267)
+ERROR; modafinil acid ; 2-benzhydrylsulfinylacetic acid; C1=CC=C(C=C1)C(C2=CC=CC=C2)S(=O)CC(=O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=monoethylglycinexylidide'
+DEBUG; Created Compound(24415)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=24415'
+DEBUG; Created Compound(24415)
+ERROR; monoethylglycinexylidide ; ~{N}-(2,6-dimethylphenyl)-2-(ethylamino)acetamide; CCNCC(=O)NC1=C(C=CC=C1C)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=morphine'
+DEBUG; Created Compound(5288826)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5288826'
+DEBUG; Created Compound(5288826)
+ERROR; morphine ; (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinoline-7,9-diol; CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=morphine-3-glucuronide'
+DEBUG; Created Compound(5484731)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5484731'
+DEBUG; Created Compound(5484731)
+ERROR; morphine-3-glucuronide ; (2~{S},3~{S},4~{S},5~{R},6~{S})-6-[[(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-7-hydroxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-9-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid; CN1CCC23C4C1CC5=C2C(=C(C=C5)OC6C(C(C(C(O6)C(=O)O)O)O)O)OC3C(C=C4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=morphine-6-glucuronide'
+DEBUG; Created Compound(5360621)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5360621'
+DEBUG; Created Compound(5360621)
+ERROR; morphine-6-glucuronide ; (2~{S},3~{S},4~{S},5~{R},6~{R})-6-[[(4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-hydroxy-3-methyl-2,4,4~{a},7,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-yl]oxy]-3,4,5-trihydroxyoxane-2-carboxylic acid; CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4)OC6C(C(C(C(O6)C(=O)O)O)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=noracymethadol'
+DEBUG; Created Compound(15129)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=15129'
+DEBUG; Created Compound(15129)
+ERROR; noracymethadol ; [6-(methylamino)-4,4-diphenylheptan-3-yl] acetate; CCC(C(CC(C)NC)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=norcocaine'
+DEBUG; Created Compound(644007)
+DEBUG; Created Compound(597722)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=644007'
+DEBUG; Created Compound(644007)
+ERROR; norcocaine ; methyl (1~{R},2~{R},3~{S},5~{S})-3-benzoyloxy-8-azabicyclo[3.2.1]octane-2-carboxylate; COC(=O)C1C2CCC(N2)CC1OC(=O)C3=CC=CC=C3 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=norcodeine'
+DEBUG; Created Compound(9925873)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9925873'
+DEBUG; Created Compound(9925873)
+ERROR; norcodeine ; (4~{R},4~{a}~{R},7~{S},7~{a}~{R},12~{b}~{S})-9-methoxy-1,2,3,4,4~{a},7,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-ol; COC1=C2C3=C(CC4C5C3(CCN4)C(O2)C(C=C5)O)C=C1 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=norfenfluramine'
+DEBUG; Created Compound(15897)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=15897'
+DEBUG; Created Compound(15897)
+ERROR; norfenfluramine ; 1-[3-(trifluoromethyl)phenyl]propan-2-amine; CC(CC1=CC(=CC=C1)C(F)(F)F)N 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=norfentanyl'
+DEBUG; Created Compound(259381)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=259381'
+DEBUG; Created Compound(259381)
+ERROR; norfentanyl ; ~{N}-phenyl-~{N}-piperidin-4-ylpropanamide; CCC(=O)N(C1CCNCC1)C2=CC=CC=C2 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=noroxymorphone'
+DEBUG; Created Compound(5497189)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5497189'
+DEBUG; Created Compound(5497189)
+ERROR; noroxymorphone ; (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a},9-dihydroxy-1,2,3,4,5,6,7~{a},13-octahydro-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one; C1CC2(C3CC4=C5C2(CCN3)C(C1=O)OC5=C(C=C4)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=o-Cresol'
+DEBUG; Created Compound(335)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=335'
+DEBUG; Created Compound(335)
+ERROR; o-Cresol ; 2-methylphenol; CC1=CC=CC=C1O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=oxymorphone'
+DEBUG; Created Compound(5284604)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=5284604'
+DEBUG; Created Compound(5284604)
+ERROR; oxymorphone ; (4~{R},4~{a}~{S},7~{a}~{R},12~{b}~{S})-4~{a},9-dihydroxy-3-methyl-2,4,5,6,7~{a},13-hexahydro-1~{H}-4,12-methanobenzofuro[3,2-e]isoquinolin-7-one; CN1CCC23C4C(=O)CCC2(C1CC5=C3C(=C(C=C5)O)O4)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=oxypurinol'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=p-Cymen-8-en-3-ol'
+'Not Found: No CID found that matches the given name'
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=p-Cymene-2%2C3-diol'
+DEBUG; Created Compound(95873)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=95873'
+DEBUG; Created Compound(95873)
+ERROR; p-Cymene-2,3-diol ; 3-methyl-6-propan-2-ylbenzene-1,2-diol; CC1=C(C(=C(C=C1)C(C)C)O)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=p-Hydroxyfelbamate'
+DEBUG; Created Compound(9921310)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=9921310'
+DEBUG; Created Compound(9921310)
+ERROR; p-Hydroxyfelbamate ; [3-carbamoyloxy-2-(4-hydroxyphenyl)propyl] carbamate; C1=CC(=CC=C1C(COC(=O)N)COC(=O)N)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=para-Trifluoromethylphenol'
+DEBUG; Created Compound(67874)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=67874'
+DEBUG; Created Compound(67874)
+ERROR; para-Trifluoromethylphenol ; 4-(trifluoromethyl)phenol; C1=CC(=CC=C1C(F)(F)F)O 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=taurocholate'
+DEBUG; Created Compound(6675)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6675'
+DEBUG; Created Compound(6675)
+ERROR; taurocholate ; 2-[[(4~{R})-4-[(3~{R},5~{S},7~{R},8~{R},9~{S},10~{S},12~{S},13~{R},14~{S},17~{R})-3,7,12-trihydroxy-10,13-dimethyl-2,3,4,5,6,7,8,9,11,12,14,15,16,17-tetradecahydro-1~{H}-cyclopenta[a]phenanthren-17-yl]pentanoyl]amino]ethanesulfonic acid; CC(CCC(=O)NCCS(=O)(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O)C 
+
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=tecastemizole'
+DEBUG; Created Compound(123618)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=123618'
+DEBUG; Created Compound(123618)
+ERROR; tecastemizole ; 1-[(4-fluorophenyl)methyl]-~{N}-piperidin-4-ylbenzimidazol-2-amine; C1CNCCC1NC2=NC3=CC=CC=C3N2CC4=CC=C(C=C4)F 
+
+MATCH; terbutaline; CC(C)(C)NCC(O)C1=CC(O)=CC(O)=C1
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/JSON
+DEBUG; Request data: b'name=trifluoroacetic+acid'
+DEBUG; Created Compound(6422)
+DEBUG; Request URL: https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/JSON
+DEBUG; Request data: b'cid=6422'
+DEBUG; Created Compound(6422)
+ERROR; trifluoroacetic acid ; 2,2,2-trifluoroacetic acid; C(=O)(C(F)(F)F)O 
+
